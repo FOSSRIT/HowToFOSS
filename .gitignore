@@ -1,2 +1,7 @@
 _site/
 .sass-cache/
+node_modules
+_book
+*.epub
+*.mobi
+*.pdf
