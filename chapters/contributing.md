@@ -29,4 +29,11 @@ another great way to get involved. It helps you stay up to date with what's
 happening with the project, and who knows, maybe you'll spot the next project-breaking
 typo that slipped past everyone else.
 
-// TODO: How does I code?
+Once you've settled into working with the project's community, it may finally be
+time to start writing code. This can be a daunting task; submitting your first
+patch is definitely a scary thing to undertake. When deciding what to tackle
+first, it's probably best to start with something relatively simple that has
+already been documented to increase your chances of having the patch accepted.
+The simple the changes, and the easier your code is to read, the more likely it
+is that someone will review it quickly, and merge it. The patch is also more
+likely to be accepted if it solves an issue that people are already looking out for.
