@@ -16,12 +16,18 @@ The world is very nearly a better place with that spelling error fixed. But how 
 
 ![Github pull request button](https://cloud.githubusercontent.com/assets/512416/4519844/68624d42-4ccd-11e4-9072-f8b237d859c6.PNG)
 
-A pull request, or PR, will let the upstream developer know that you have made changes that you would like to be included their repository. Clicking the green button shown above will initiate a PR using all the commits exclusive to your repo. If another commit is added to your repo after you've opened the PR, it will be automatically included. After the upstream developer decides your code is OK to merge, the PR will be closed and your code will be merged.
+A pull request, or PR, will let the upstream developer know that you have made changes that you would like to be included their repository. Clicking the green button shown above will initiate a PR using all the commits exclusive to your repo. If another commit is added to your repo after you've opened the PR, it will be automatically included. After the upstream developer decides your code is OK to merge, the PR will be closed and your code will be merged. Github has a [more in-depth tutorial](https://help.github.com/articles/using-pull-requests/) of how pull requests work if you would like more information.
 
 Woo! The fix for the spelling error is now included in the book! But what do you do with your forked repo? It is a matter of personal preference. In general, if you do not plan on contributing in the future and you feel that having a duplicated codebase might confuse people, delete the fork. Your contributions will live on in the upstream repository and you will not lose credit for your work.
 
 ## [Bitbucket](bitbucket.org)
 
+Bitbucket is similar to Github in respect to the way it functions. It is a tool for managing a code repository and it comes with added features on top of git, such as pull requests and issue tracking.
+
 ## [CodePlex](codeplex.com)
 
+CodePlex is a Microsoft-backed code host primarily used for C# .NET projects. It is notable not for its modest impact in the current landscape, but that it paved the way for this current wave of project all-in-one sites like Github and Bitbucket. 
+
 ## [SourceForge](sourceforge.net)
+
+Any discussion of project hosts has to talk about SourceForge as its significance a decade ago rivaled that of Github now. While the vast majority of new projects are not started on SourceForge anymore, it still boasts some 30 million downloads of hosted software each week. Code on SourceForge is backed by [SVN](https://subversion.apache.org/), a version control system that has been losing conceptual ground to git and other systems for some time.
