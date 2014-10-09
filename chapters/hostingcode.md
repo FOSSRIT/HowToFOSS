@@ -1,8 +1,8 @@
 # Hosting Code
 
-## [Github](github.com)
+## [Github](//github.com)
 
-At the time of this writing, Github is the primary code host on the Internet. Github uses [git](git-scm.com) as the underlying version control system. If you haven't already, you can read the `How to Git` chapter to learn more about how git works.
+At the time of this writing, Github is the primary code host on the Internet. Github uses [git](//git-scm.com) as the underlying version control system. If you haven't already, you can read the `How to Git` chapter to learn more about how git works.
 
 There is more to Github than an visualization of a git repo. Let's go through a "hypothetical" situation where you find a typo in this book and you, a developer, want to fix it. Firstly, you'll want to fork the repo. Find the button to fork the repo and Github will create a repository like `github.com/your-username/HowToFOSS`.
 
@@ -20,14 +20,14 @@ A pull request, or PR, will let the upstream developer know that you have made c
 
 Woo! The fix for the spelling error is now included in the book! But what do you do with your forked repo? It is a matter of personal preference. In general, if you do not plan on contributing in the future and you feel that having a duplicated codebase might confuse people, delete the fork. Your contributions will live on in the upstream repository and you will not lose credit for your work.
 
-## [Bitbucket](bitbucket.org)
+## [Bitbucket](//bitbucket.org)
 
 Bitbucket is similar to Github in respect to the way it functions. It is a tool for managing a code repository and it comes with added features on top of git, such as pull requests and issue tracking.
 
-## [CodePlex](codeplex.com)
+## [CodePlex](//codeplex.com)
 
 CodePlex is a Microsoft-backed code host primarily used for C# .NET projects. It is notable not for its modest impact in the current landscape, but that it paved the way for this current wave of project all-in-one sites like Github and Bitbucket. 
 
-## [SourceForge](sourceforge.net)
+## [SourceForge](//sourceforge.net)
 
-Any discussion of project hosts has to talk about SourceForge as its significance a decade ago rivaled that of Github now. While the vast majority of new projects are not started on SourceForge anymore, it still boasts some 30 million downloads of hosted software each week. Code on SourceForge is backed by [SVN](https://subversion.apache.org/), a version control system that has been losing conceptual ground to git and other systems for some time.
+Any discussion of project hosts has to talk about SourceForge as its significance a decade ago rivaled that of Github now. While the vast majority of new projects are not started on SourceForge anymore, it still boasts some 30 million downloads of hosted software each week. Code on SourceForge is backed by [SVN](//subversion.apache.org/), a version control system that has been losing conceptual ground to git and other systems for some time.
