@@ -29,6 +29,12 @@ another great way to get involved. It helps you stay up to date with what's
 happening with the project, and who knows, maybe you'll spot the next project-breaking
 typo that slipped past everyone else.
 
+Another great way to ease your way into a project is by doing some repository
+cleanup. This can include updating documentation, making sure code fits the
+project's standards, or making the readme prettier. All of these are tasks that
+are very important, but often project contributors won't take the time to do
+them themselves.
+
 Once you've settled into working with the project's community, it may finally be
 time to start writing code. This can be a daunting task; submitting your first
 patch is definitely a scary thing to undertake. When deciding what to tackle
