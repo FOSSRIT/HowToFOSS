@@ -1,3 +1,4 @@
+<!-- http://advfoss-ritigm.rhcloud.com/licensewat -->
 <!-- https://github.com/jbrambleDC/Twitter-NLPMaps/issues/1 -->
 # Licensing Overview and Resources
 
