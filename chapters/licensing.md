@@ -1,3 +1,4 @@
+<!-- https://github.com/jbrambleDC/Twitter-NLPMaps/issues/1 -->
 # Licensing Overview and Resources
 
 Licenses are a critical component of any open source project. The license dictates how the project can be used and contributed to by others, and neglecting to include a license does not mean you are putting your code in the public domain. [Paul Rubens](//www.cio.com/article/2382115/open-source-tools/how-to-choose-the-best-license-for-your-open-source-software-project.html) explains,
