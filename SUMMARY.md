@@ -1,7 +1,7 @@
 # Summary
 
 * What is Open Source? Why? FOSS, Wat?
-* Licensing Overview and Resources
+* [Licensing Overview and Resources](chapters/licensing.md)
 * Case-Study: Past FOSS projects at RIT
   * Started Open - Dash
   * Opened after the fact - JPP
