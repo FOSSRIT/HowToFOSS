@@ -2,9 +2,9 @@
 
 ## [Github](//github.com)
 
-At the time of this writing, Github is the primary code host on the Internet. Github uses [git](//git-scm.com) as the underlying version control system. If you haven't already, you can read the `How to Git` chapter to learn more about how git works.
+At the time of this writing, Github is most popular way to host public code. Github hosts [git](//git-scm.com) repositories and provides additional free (but not Open Source) functionality such as pull requests, issue trackers, and wikis. If you haven't already, you can read the `How to Git` chapter to learn more about how git works.
 
-There is more to Github than an visualization of a git repo. Let's go through a "hypothetical" situation where you find a typo in this book and you, a developer, want to fix it. Firstly, you'll want to fork the repo. Find the button to fork the repo and Github will create a repository like `github.com/your-username/HowToFOSS`.
+There is more to Github than a visualization of a git repo. Let's go through a "hypothetical" situation where you find a typo in this book and you, a developer, want to fix it. Firstly, you'll want to fork the repo. Find the button to fork the repo and Github will create a repository like `github.com/your-username/HowToFOSS`.
 
 ![Github watch, star, and fork buttons](https://cloud.githubusercontent.com/assets/512416/4519766/815d1212-4cca-11e4-9174-5743d9dbdddb.PNG)
 
@@ -22,7 +22,7 @@ Woo! The fix for the spelling error is now included in the book! But what do you
 
 ## [Bitbucket](//bitbucket.org)
 
-Bitbucket is similar to Github in respect to the way it functions. It is a tool for managing a code repository and it comes with added features on top of git, such as pull requests and issue tracking.
+Bitbucket is built on [Mercurial](http://mercurial.selenic.com/), a [DVCS](http://en.wikipedia.org/wiki/Distributed_revision_control) similar to git. Bitbucket is similar to Github, and now supports both git and Mercurial. Like Github, it provides extra free (not Open Source) features.
 
 ## [CodePlex](//codeplex.com)
 
