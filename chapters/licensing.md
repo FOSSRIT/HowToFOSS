@@ -1,6 +1,6 @@
-<!-- http://advfoss-ritigm.rhcloud.com/licensewat -->
-<!-- https://github.com/jbrambleDC/Twitter-NLPMaps/issues/1 -->
 # Licensing Overview and Resources
+
+First, the standard disclaimer: **This book is not a lawyer, and this does not constitute legal or financial advice.**
 
 Licenses are a critical component of any open source project. The license dictates how the project can be used and contributed to by others, and neglecting to include a license does not mean you are putting your code in the public domain. [Paul Rubens](//www.cio.com/article/2382115/open-source-tools/how-to-choose-the-best-license-for-your-open-source-software-project.html) explains,
 
@@ -33,3 +33,13 @@ Linux, Git, and WordPress use the GPL.
 > Every license helps creators — we call them licensors if they use our tools — retain copyright while allowing others to copy, distribute, and make some uses of their work — at least non-commercially. Every Creative Commons license also ensures licensors get the credit for their work they deserve.
 
 This book and Wikipedia use Creative Commons.
+
+If you have any questions about which license to pick, there are some mailing lists that may help you with your specific situation:
+
+* [licensing@fsf.org](mailto:licensing@fsf.org)
+* [help@softwarefreedom.org](mailto:help@softwarefreedom.org)
+* [license-discuss@opensource.org](mailto:license-discuss@opensource.org)
+
+# References
+
+1. [https://github.com/jbrambleDC/Twitter-NLPMaps/issues/1](https://github.com/jbrambleDC/Twitter-NLPMaps/issues/1)

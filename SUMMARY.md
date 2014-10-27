@@ -6,10 +6,10 @@
   * Started Open - Dash
   * Opened after the fact - JPP
 * [How to Contribute to a FOSS Project](chapters/contributing.md)
-* How to manage a FOSS project
+* [How to Manage a FOSS Project](chapters/projectmanagement.md)
 * How Git Works
   * Writing proper commit messages
-* [How Github and other Open Code Forges Work](chapters/hostingcode.md)
+* [How Github and other Code Hosts Work](chapters/hostingcode.md)
 * FOSS Ecosystems
   * FOSS@MAGIC
   * Research Computing
