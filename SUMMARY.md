@@ -8,7 +8,7 @@
    * Opened after the fact - JPP
 * [How to Contribute to a FOSS Project](chapters/contributing.md)
 * [How to Manage a FOSS Project](chapters/projectmanagement.md)
-* How Git Works
+* [How to Use Git](chapters/howtogit.md)
    * Writing proper commit messages
 * [How Github and other Code Hosts Work](chapters/hostingcode.md)
 * FOSS Ecosystems
@@ -23,3 +23,4 @@
    * Gambit?
    * Civic.mit.edu?
    * ITP @ NYU
+
