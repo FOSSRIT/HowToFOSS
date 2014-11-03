@@ -3,9 +3,9 @@
 * [Introduction](README.md)
 * [What is Open Source? Why? FOSS, Wat?](chapters/fosswat.md)
 * [Licensing Overview and Resources](chapters/licensing.md)
-* Case-Study: Past FOSS projects at RIT
-   * Started Open - Dash
-   * Opened after the fact - JPP
+* Case-Studies: Past FOSS projects at RIT
+   * [Dash](chapters/case-studies/dash.md)
+   * [Just Press Play](chapters/case-studies/justpressplay.md)
 * [How to Contribute to a FOSS Project](chapters/contributing.md)
 * [How to Manage a FOSS Project](chapters/projectmanagement.md)
 * How Git Works
@@ -16,10 +16,3 @@
    * Research Computing
    * CodeRIT
    * WiC
-   * CDoT @ Seneca?
-   * RCOS @ RPI?
-   * OSL @ OSU?
-   * Media Lab @ MIT
-   * Gambit?
-   * Civic.mit.edu?
-   * ITP @ NYU
