@@ -8,7 +8,7 @@ There is more to GitHub than a visualization of a git repo. Let's go through a "
 
 ![GitHub watch, star, and fork buttons](https://cloud.githubusercontent.com/assets/512416/4519766/815d1212-4cca-11e4-9174-5743d9dbdddb.PNG)
 
-Sidenote: You might notice a couple other buttons nearby, **Watch** and **Star**. Watching a repo will notify you when issues are created and commented on among other things. Starring a repo is way of showing your approval and support of a project, as well as acting as a bookmark for later.
+Note: You might notice a couple other buttons nearby, **Watch** and **Star**. Watching a repo will notify you when issues are created and commented on among other things. Starring a repo is way of showing your approval and support of a project, as well as acting as a bookmark for later.
 
 Back to our scenario. You now have a clone of this book that you can do nearly anything with. For now, you want more than anything to go and fix the chapter containing the egregious spelling error. You can do this either by cloning the repo or by editing the file directly on GitHub. By viewing the file directly and clicking on the **Edit** button (ed. note: It is a pencil icon on the current site), you will be brought to an editor that will allow you to make changes, write a commit message, and create a commit in one fell swoop.
 
