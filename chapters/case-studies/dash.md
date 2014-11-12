@@ -8,6 +8,21 @@
 
 > But what should Dash be? At first we thought it should be a résumé piece, but that seemed too short-sighted. Some sort of undergraduate capstone project to show the school administration they should provide a more legitimate offering for large projects? Yes, but that's no way to focus an engine. A way to show game developers that C++ has competition? Definitely! What about giving back to the open source community? Absolutely, the sharing of knowledge is the only reason any of us got to where we are now. And what have XNA/Monogame been up to since we started working on this? We could push the programmer-facing game engine aspect forward by providing modern features that can fill the gap between Monogame and Unity. Now we're talking.
 
+## New Content Without A Title Yet
+
+* That time a guy tried to pay Tyler in bitcoin (like $50) for help
+* Imagine RIT
+* Meeting Andrei at GDC
+* NCrashed and Munrek
+  * First contact was March 29, 2014 in Gitter
+  * Linux support
+  * New logger (dlogg)
+* First public launch
+* https://twitter.com/yasei_no_otoko/status/471477564129947648
+* http://www.reddit.com/r/gamedev/comments/25yub3/introducing_dash_an_opensource_game_engine_in_d/
+* http://en.wikipedia.org/wiki/Dash_%28game_engine%29
+* http://forum.dlang.org/thread/qnaqymkehjvopwxwvwig@forum.dlang.org
+
 ## Why Open Source?
 
 Dash went the open source route for a number of the same reasons that many projects choose to open source: increased visibility, giving to / getting support from like-minded developers, and better project management. Keep in mind this wasn't an overnight decision: Dash developers come from the land of game development, which has a pretty bad track record with open source, and we were no exception. The prior iterations of Dash had been closed, both because we hadn't been introduced to the idea of open source development and because the engine was so closely tied to whatever game was being worked at the time that the code repositories were inseparable.
