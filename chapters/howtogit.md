@@ -1,7 +1,7 @@
 # How to Use Git
 
 Git is easily the most popular version control system among open-source code
-slingers. While git may seem complex at first, it is relatively easy to
+slingers[1]. While git may seem complex at first, it is relatively easy to
 understand.
 
 Git is a distributed version control system, meaning that changes are stored on
@@ -28,3 +28,6 @@ try git.
 
 1. [Digital Ocean: Intro to Git](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
 2. [Official Git Tutorial](http://git-scm.com/docs/gittutorial)
+
+# Sources
+[1] [StackExchange Programmers](http://programmers.stackexchange.com/a/150791)
