@@ -10,7 +10,7 @@
 * [How to Use Git](chapters/howtogit.md)
 * [How Github and other Code Hosts Work](chapters/hostingcode.md)
 * FOSS Ecosystems
-   * FOSS@MAGIC
-   * Research Computing
-   * CodeRIT
-   * WiC
+   * [FOSS@MAGIC](chapters/ecosystems/fossatmagic.md)
+   * [Research Computing](chapters/ecosystems/ritrc.md)
+   * [codeRIT](chapters/ecosystems/coderit.md)
+   * [WiC](chapters/ecosystems/ritwic.md)
