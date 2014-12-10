@@ -2,7 +2,7 @@
 
 #### [Homepage](http://magic.rit.edu/foss/)
 
-> FOSS @ RIT is an initiative to promote Free/Open Source Software related
+> FOSS @ MAGIC is an initiative to promote Free/Open Source Software related
 activities that:
 * Pursue applied research in and around RIT and with sponsors and external
 entities
