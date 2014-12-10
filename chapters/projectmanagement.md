@@ -58,15 +58,26 @@ README. You can see examples of this file for
 
 > The fact that the project's source code is kept under version control means
 that most decisions can be easily unmade. The most common way this happens is
-that someone commits a change mistakenly thinking everyone would be happy with it, only to be met with objections after the fact. It is typical for such objections to start out with an obligatory apology for having missed out on prior discussion, though this may be omitted if the objector finds no record of such a discussion in the mailing list archives. Either way, there is no reason for the tone of the discussion to be different after the change has been committed than before. Any change can be reverted, at least until dependent changes are introduced (i.e., new code that would break if the original change were suddenly removed). The version control system gives the project a way to undo the effects of bad or hasty judgement. This, in turn, frees people to trust their instincts about how much feedback is necessary before doing something.
+that someone commits a change mistakenly thinking everyone would be happy with
+it, only to be met with objections after the fact. It is typical for such
+objections to start out with an obligatory apology for having missed out on
+prior discussion, though this may be omitted if the objector finds no record of
+such a discussion in the mailing list archives. Either way, there is no reason
+for the tone of the discussion to be different after the change has been
+committed than before. Any change can be reverted, at least until dependent
+changes are introduced (i.e., new code that would break if the original change
+were suddenly removed). The version control system gives the project a way to
+undo the effects of bad or hasty judgement. This, in turn, frees people to
+trust their instincts about how much feedback is necessary before doing
+something.
 
 > This also means that the process of establishing consensus need not be very
 formal. Most projects handle it by feel. Minor changes can go in with no
 discussion, or with minimal discussion followed by a few nods of agreement.
 For more significant changes, especially ones with the potential to destabilize
-a lot of code, people should wait a day or two before assuming there is consensus,
-the rationale being that no one should be marginalized in an important
-conversation simply because he didn't check email frequently enough.
+a lot of code, people should wait a day or two before assuming there is
+consensus, the rationale being that no one should be marginalized in an
+important conversation simply because he didn't check email frequently enough.
 
 # References
 

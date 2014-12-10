@@ -64,9 +64,8 @@ GitHub, it provides extra free, but not Open Source, features.
 ## [CodePlex](//codeplex.com)
 
 CodePlex is a Microsoft-backed code host primarily used for C# .NET projects.
-It is notable not for its modest impact in the current landscape, but that it
-paved the way for this current wave of project all-in-one sites like GitHub and
-Bitbucket.
+With the recent transition of [.NET to Github](https://github.com/microsoft/dotnet)
+it would seem that Microsoft is beginning to move off of the platform.
 
 ## [SourceForge](//sourceforge.net)
 
