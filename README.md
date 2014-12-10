@@ -39,9 +39,30 @@ to Github and open source contributions, check out the section about [hosting
 code on Github](chapters/hostingcode.md) for an example on how to modify this
 book.
 
+If you successfully submit a pull request, [Travis CI](https://travis-ci.org/FOSSRIT/HowToFOSS)
+should automatically update the [web version the book](http://fossrit.github.io/HowToFOSS/)
+after a few minutes.
+
+## Building Locally
+
+[GitBook](https://github.com/GitbookIO/gitbook) requires
+[node.js](http://nodejs.org/) to be installed. To install Gitbook:
+
+```
+npm install -g gitbook
+```
+In the folder where you cloned this repository, run:
+
+```
+gitbook build
+```
+
+This builds an HTML version of the book. You can also use `gitbook pdf`,
+`gitbook epub`, or `gitbook mobi`.
+
 ## License
 
 All guidance, best practices, and case-studies are under Free/Open Source
-Licenses. The content is formatted by [GitBook](https://github.com/GitbookIO/gitbook).
+Licenses. The content is formatted by Gitbook.
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
