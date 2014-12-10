@@ -1,9 +1,9 @@
 # How To FOSS
 
-This book was compiled during an Independent Study course at Rochester Institute
-of Technology, in conjunction with the MAGIC Center. In it, you will find a
-collection of information that explain how to get started in the free and open
-source community.
+This book was compiled during an Independent Study course at [Rochester Institute
+of Technology](http://www.rit.edu/), in conjunction with the [MAGIC Center](http://magic.rit.edu).
+In it, you will find a collection of information that explain how to get started
+in the free and open source community.
 
 ## Authors
 
@@ -29,7 +29,15 @@ discovered code however, he was hooked. Now, he's relatively well known in the
 [D language](http://dlang.org/) community, especially in the game development
 circles, and is the Lead Engine Programmer on Circular Studios'
 [Dash Engine](https://github.com/Circular-Studios/Dash). Colden has accepted a
-full-time position at Amazon where he will be working in the Video Games division.
+full-time position at Amazon where he will be working in the Video Games
+division.
+
+## Contributing
+
+We would be happy to review any changes or additions you suggest. If you are new
+to Github and open source contributions, check out the section about [hosting
+code on Github](chapters/hostingcode.md) for an example on how to modify this
+book.
 
 ## License
 
