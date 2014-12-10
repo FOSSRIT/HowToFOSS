@@ -1,6 +1,6 @@
 # FOSS@MAGIC
 
-From [the FOSS Box's website](http://magic.rit.edu/foss/):
+#### [Homepage](http://magic.rit.edu/foss/)
 
 > FOSS @ RIT is an initiative to promote Free/Open Source Software related
 activities that:
