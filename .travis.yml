@@ -1,0 +1,25 @@
+language: node_js
+node:
+- '0.10'
+install:
+- npm install -g gitbook
+script:
+- gitbook build
+after_success:
+- git config user.name "Colden Cullen"
+- git config user.email "colden@coldencullen.com"
+
+- git checkout master
+- gitbook build
+- git add _book -f
+- git commit -m "Rebuilt book"
+
+- git remote add deploy https://ColdenCullen:$GH_TOKEN@github.com/$TRAVIS_REPO_SLUG
+- git fetch deploy
+
+- git subtree split --prefix=_book --branch=build
+- git checkout build
+- git push --force deploy build:gh-pages
+env:
+  global:
+    secure: DzRVF8zDNU/dZm3dAi/50IDdgjAlPHzMlzPEG5iDkcLfBCFC35DlWRzWnvCrr69ymB83BsoB0SyBfOYdS8NMAh5b2Z4wypqZHfaY36pbzcLaO4eMsR4osV0gnDibu8oEzbxDiCFSJTwkmb7/b4jeRuV7mqFQLImeyJ6RRyYhRbU=
