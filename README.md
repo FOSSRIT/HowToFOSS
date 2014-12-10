@@ -27,7 +27,7 @@ Microsoft where he will be working with web technology.
 up having built practically every Star Wars Lego set created. As soon as he
 discovered code however, he was hooked. Now, he's relatively well known in the
 [D language](http://dlang.org/) community, especially in the game development
-circles, and is the Lead Engine Programmer on Circular Studios'
+circles, and is the Lead Engine Programmer on [Circular Studios](http://circularstudios.com/)'
 [Dash Engine](https://github.com/Circular-Studios/Dash). Colden has accepted a
 full-time position at Amazon where he will be working in the Video Games
 division.
