@@ -2,6 +2,9 @@
 
 #### [Homepage](http://magic.rit.edu/foss/)
 
+<img width="50%" src="https://github.com/FOSSRIT/foss.rit.edu/blob/master/brand/fossboxlogo%28official%29.png"/>
+![fosslogo](https://github.com/FOSSRIT/foss.rit.edu/blob/master/brand/fossboxlogo%28official%29.png)
+
 > FOSS @ MAGIC is an initiative to promote Free/Open Source Software related
 activities that:
 * Pursue applied research in and around RIT and with sponsors and external
