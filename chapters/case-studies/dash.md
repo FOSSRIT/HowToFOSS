@@ -43,11 +43,7 @@ and a half of taking on more developers and iterating on the components.
   * First contact was March 29, 2014 in Gitter
   * Linux support
   * New logger (dlogg)
-* First public launch
-* https://twitter.com/yasei_no_otoko/status/471477564129947648
-* http://www.reddit.com/r/gamedev/comments/25yub3/introducing_dash_an_opensource_game_engine_in_d/
 * http://en.wikipedia.org/wiki/Dash_%28game_engine%29
-* http://forum.dlang.org/thread/qnaqymkehjvopwxwvwig@forum.dlang.org
 
 ## Game Developers Conference 2014
 
@@ -79,6 +75,37 @@ You can read about [Daniel's time at
 GDC](http://blog.danieljost.com/gdc-2014-post-mortem/) or [Colden's thoughts on
 the people we talked
 to](http://blog.coldencullen.com/gdc-2014-who-we-talked-to/).
+
+## The first public launch
+
+Now, of course, the project had been developed in the open and was technically
+public. But as we neared the end of the semester (May 2014) we thought it would
+be cool to share Dash around as `0.9.0` shipped. The team thought we had enough
+features to make people interested and we wanted to gather feedback about what
+the larger public thought we should focus on in future releases.
+
+When we began sharing it we didn't know what to expect. We ended up getting a
+heck of a lot more attention than we had even dreamed of. We were at the top of
+[/r/programming](http://www.reddit.com/r/programming/comments/25yw89/dash_an_opensource_game_engine_coded_in_d/)
+for half a day, ranked well in [/r/gamedev](http://www.reddit.com/r/gamedev/comments/25yub3/introducing_dash_an_opensource_game_engine_in_d/),
+had 3 pages of dicussion on the [D forums](http://forum.dlang.org/thread/qnaqymkehjvopwxwvwig@forum.dlang.org),
+and the Github repo was viewed thousands of times. In fact, we were viewed so
+much we were rank 22 in the [Trending](https://github.com/trending) section of
+Github. I wish I had concrete stats, but I know we gained over 100 stars on
+Github and 200 likes on [Facebook](https://www.facebook.com/CircularStudios). A
+week later we even caught wind of some [Japanese conversation on
+Twitter](https://twitter.com/yasei_no_otoko/status/471477564129947648). We even
+had a number of people start following our
+[chat room on Gitter](https://gitter.im/Circular-Studios/Dash).
+
+We had a a number of things that helped enable our success. We put the Facebook
+page up a couple weeks ahead of the launch so that it already had a small
+following and would look more legitimate to newcomers. We had created a landing
+page for Circular Studios with brief explanations of Dash and Spectral that
+linked to places like the Github. The website was hosted on Amazon S3, so the
+wave of traffic didn't slow it down or bring it down entirely. We had the larger
+points of being the first 3D engine in the D language and being one of a
+handful of FOSS-licensed game engines helping us out as well.
 
 ## Why Open Source?
 
