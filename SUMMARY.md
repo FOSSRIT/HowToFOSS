@@ -14,3 +14,5 @@
    * [Research Computing](chapters/ecosystems/ritrc.md)
    * [codeRIT](chapters/ecosystems/coderit.md)
    * [WiC](chapters/ecosystems/ritwic.md)
+   * [BizLegFoss](chapters/ecosystems/BizLegFoss/index.md)
+      * [Wordpress Profile](chapters/ecosystems/BizLegFoss/Wordpress.md)
