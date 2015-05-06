@@ -1,4 +1,16 @@
-## Rationale
+Profile: Wordpress
+==================
+
+### Authors
+
+- Caleb Coffie ([C_Coffie](https://calebcoffie.com))
+- Wyatt Winters ([wywin](http://wyattwinters.com))
+
+### Rationale
+There are **so** many subjects you could choose to profile, so why did you choose this one?
+What drew you into wanting to know more about the organization?
+How did you/your group decide on and agree?
+
 Wordpress is a gigantic thing. It powers (at least) 23% of the web
 ([source](http://w3techs.com/technologies/details/cm-wordpress/all/all)). We
 wanted to dive deeper into what the community looks like that generates such a
@@ -6,7 +18,7 @@ massively popular piece of software.
 
 It was also one of the suggested ones, so that is also a reason.
 
-## Organizational Details
+### Organizational Details
 
 1. Is the subject of your profile a corporate entity?
   - Automattic is the corporate entity
@@ -69,7 +81,7 @@ It was also one of the suggested ones, so that is also a reason.
 relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
   - Bi-annual transparency reports: [reports](http://transparency.automattic.com/)
 
-## Communications
+### Communications
 1. Does your subject participate in social media? If yes, please list a URL for
 each account, and reach within that community. (i.e. Twitter: @RedHatNews -
 61.9K Followers.)
@@ -88,7 +100,7 @@ them here, and provide links to any relevant sessions, keynotes, or content.
   - There’s a conference aggregator named Lanyrd that has a Wordpress tag:
   [Lanyard](http://lanyrd.com/topics/wordpress/)
 
-## Community Architecture
+### Community Architecture
 Your subject likely runs or contributes to one or more Open Source products or
 projects. Choose one (or more) of these and answer the following questions:
 
@@ -206,7 +218,7 @@ individuals?
   product, it feels difficult to contribute. It also feels a little too reliant
   on a small group of people.
 
-## Technology/Product (Section adapted from EFF Worksheet)
+### Technology/Product (Section adapted from EFF Worksheet)
 1. Who invented, created, or sponsored the technology?
   - Matt Mullenweg and Mike Little founded Automattic Inc. to (initially) work
   on Wordpress.
