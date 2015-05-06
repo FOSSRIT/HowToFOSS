@@ -45,16 +45,16 @@ It was also one of the suggested ones, so that is also a reason.
   - [Code For the People](http://codeforthepeople.com/) - Wordpress development
   firm
 
-  [source](http://wptavern.com/a-look-back-at-16-automattic-acquisitions-since-2007)
+  ([source](http://wptavern.com/a-look-back-at-16-automattic-acquisitions-since-2007))
 
 8. Has the company made any investments in other companies? If yes, which ones.
   - No they have not. They normally just purchase the companies.
 
 9. Number of Employees?
-  - 306 [source](http://automattic.com/about/)
+  - 306 ([source](http://automattic.com/about/))
 
 10. Where is HQ?
-  - 132 Hawthorne St, San Francisco, CA 94107 [source](https://www.crunchbase.com/organization/automattic)
+  - 132 Hawthorne St, San Francisco, CA 94107 ([source](https://www.crunchbase.com/organization/automattic))
 
 11. Does it have any other offices or locations?
   - None
@@ -84,7 +84,7 @@ Briefly describe and include a URL for each.
 3. Does your subject organize or participate in any conferences? If so, list
 them here, and provide links to any relevant sessions, keynotes, or content.
   - Wordcamp - first organized by Matt Mullenweg, but numerous spinoffs have
-  been established. [source](http://central.wordcamp.org/about/)
+  been established. ([source](http://central.wordcamp.org/about/))
   - There’s a conference aggregator named Lanyrd that has a Wordpress tag:
   [Lanyard](http://lanyrd.com/topics/wordpress/)
 
@@ -117,7 +117,7 @@ If applicable, list and provide links to:
 7. Describe the software project, its purpose and goals.
   - Wordpress is a blogging platform and CMS. “...the mission of the WordPress
   open source project: to democratize publishing through Open Source, GPL
-  software.” [source](http://codex.wordpress.org/WordPress_Policies)
+  software.” ([source](http://codex.wordpress.org/WordPress_Policies))
 
 8. Give brief history of the project. When was the Initial Commit? The latest
 commit?
@@ -135,11 +135,11 @@ commit?
 11. Has there been any turnover in the Core Team? (i.e. has the top 20% of
 contributors stayed the same over time? If not, how has it changed?)
   - There is a list of “Developer Emeriti”, comprised of 10 people.
-  [source](https://wordpress.org/about/)
+  ([source](https://wordpress.org/about/))
 
 12. Does the project have a BDFL, or Lead Developer? (BDFL == Benevolent
 Dictator for Life)
-- Lead Developers: [source](https://wordpress.org/about/)
+- Lead Developers: ([source](https://wordpress.org/about/))
     - Helen Hou-Sandí
     - Dion Hulse
     - Mark Jaquith
@@ -164,7 +164,7 @@ during development? Who is responsible for quality control and bug repair?
   because of the architecture of the community, a large number of contributions
   via patches get “filtered” through a smaller number of people. As such, the
   number of contributors has remained roughly the same over time.
-  [source](https://www.openhub.net/p/wordpress)
+  ([source](https://www.openhub.net/p/wordpress))
 
 16. In your opinion, does the project pass "The Raptor Test?" (i.e. Would the
 project survive if the BDFL, or most active contributor were eaten by a
@@ -214,7 +214,7 @@ individuals?
 2. What was the technology designed to do? How was it used?
   - "...the mission of the WordPress open source project: to democratize
   publishing through Open Source, GPL software."
-  [source](http://codex.wordpress.org/WordPress_Policies)
+  ([source](http://codex.wordpress.org/WordPress_Policies))
   - It is a browser based CMS / blogging platform.
 
 3. Who would benefit from using this technology?
