@@ -1,8 +1,8 @@
 ## Rationale
-Wordpress is a gigantic thing. It powers (at least) 23% of the web.
-(http://w3techs.com/technologies/details/cm-wordpress/all/all) We wanted to
-dive deeper into what the community looks like that generates such a massively
-popular piece of software.
+Wordpress is a gigantic thing. It powers (at least) 23% of the web
+([source](http://w3techs.com/technologies/details/cm-wordpress/all/all)). We
+wanted to dive deeper into what the community looks like that generates such a
+massively popular piece of software.
 
 It was also one of the suggested ones, so that is also a reason.
 
@@ -21,41 +21,40 @@ It was also one of the suggested ones, so that is also a reason.
   - Matt Mullenweg and Mike Little
 
 5. Original founder(s) still active?
-  - Matt Mullenweg is still active on the project. Mike Little is no longer
-  active on the project.
+  - Matt Mullenweg is still active on the project. Mike Little is no longer active on the project.
 
 6. Publicly Traded? Since when? Initial Stock Price? Current stock price?
   - Automattic/Wordpress is not publically traded.
 
-7. Has the company made any acquisitions? If yes, which companies, and what were
-their core products?
-  - Gravatar - Avatars
-  - BuddyPress - Social networking on a blog
-  - IntenseDebate - Commenting service
-  - Polldaddy - Surveys and polls
+7. Has the company made any acquisitions? If yes, which companies, and what were their core products?
+  - [Gravatar](https://en.gravatar.com/) - Avatars
+  - [BuddyPress](https://buddypress.org/) - Social networking on a blog
+  - [IntenseDebate](https://intensedebate.com/) - Commenting service
+  - [Polldaddy](https://polldaddy.com/) - Surveys and polls
   - Blo.gs - Directory of blogs
-  - After The Deadline - Spell checker
-  - Plinky - Writing prompts
+  - [After The Deadline](http://www.afterthedeadline.com/) - Spell checker
+  - [Plinky](http://www.plinky.com/) - Writing prompts
   - Code Garage - Backups and security scanning
-  - Simperium and Simplenote - Note taking and data synchronization
+  - [Simperium](https://simperium.com/) and [Simplenote](http://simplenote.com/) - Note taking and data synchronization
   - Poster - Wordpress mobile app
-  - Lean Domain Search - Domain name search
-  - Cloudup - File-sharing service
-  - Longreads - Sharing service for long form posts
-  - Scroll Kit - Visual HTML editor
+  - [Lean Domain Search](http://www.leandomainsearch.com/) - Domain name search
+  - [Cloudup](https://cloudup.com/) - File-sharing service
+  - [Longreads](http://longreads.com/) - Sharing service for long form posts
+  - [Scroll Kit](http://www.scrollkit.com/) - Visual HTML editor
   - Parka - Security scanning
-  - Code For the People - Wordpress development firm
+  - [Code For the People](http://codeforthepeople.com/) - Wordpress development
+  firm
 
-(http://wptavern.com/a-look-back-at-16-automattic-acquisitions-since-2007)
+  [source](http://wptavern.com/a-look-back-at-16-automattic-acquisitions-since-2007)
 
 8. Has the company made any investments in other companies? If yes, which ones.
   - No they have not. They normally just purchase the companies.
 
 9. Number of Employees?
-  - 306 (http://automattic.com/about/)
+  - 306 [source](http://automattic.com/about/)
 
 10. Where is HQ?
-  - 132 Hawthorne St, San Francisco, CA 94107 (https://www.crunchbase.com/organization/automattic)
+  - 132 Hawthorne St, San Francisco, CA 94107 [source](https://www.crunchbase.com/organization/automattic)
 
 11. Does it have any other offices or locations?
   - None
@@ -68,13 +67,13 @@ their core products?
 
 14. Does your organization file any annual reports? Please include links to any
 relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
-  - Bi-annual transparency reports: http://transparency.automattic.com/
+  - Bi-annual transparency reports: [reports](http://transparency.automattic.com/)
 
 ## Communications
 1. Does your subject participate in social media? If yes, please list a URL for
 each account, and reach within that community. (i.e. Twitter: @RedHatNews -
 61.9K Followers.)
-  - Twitter: @wordpress - 442K followers
+  - Twitter: [@wordpress](https://twitter.com/wordpress) - 442K followers
 
 2. What communication channels does your subject use to reach their public?
 Briefly describe and include a URL for each.
@@ -85,9 +84,9 @@ Briefly describe and include a URL for each.
 3. Does your subject organize or participate in any conferences? If so, list
 them here, and provide links to any relevant sessions, keynotes, or content.
   - Wordcamp - first organized by Matt Mullenweg, but numerous spinoffs have
-  been established. http://central.wordcamp.org/about/
+  been established. [source](http://central.wordcamp.org/about/)
   - There’s a conference aggregator named Lanyrd that has a Wordpress tag:
-  http://lanyrd.com/topics/wordpress/
+  [Lanyard](http://lanyrd.com/topics/wordpress/)
 
 ## Community Architecture
 Your subject likely runs or contributes to one or more Open Source products or
@@ -118,7 +117,7 @@ If applicable, list and provide links to:
 7. Describe the software project, its purpose and goals.
   - Wordpress is a blogging platform and CMS. “...the mission of the WordPress
   open source project: to democratize publishing through Open Source, GPL
-  software.” (http://codex.wordpress.org/WordPress_Policies)
+  software.” [source](http://codex.wordpress.org/WordPress_Policies)
 
 8. Give brief history of the project. When was the Initial Commit? The latest
 commit?
@@ -136,11 +135,11 @@ commit?
 11. Has there been any turnover in the Core Team? (i.e. has the top 20% of
 contributors stayed the same over time? If not, how has it changed?)
   - There is a list of “Developer Emeriti”, comprised of 10 people.
-  (https://wordpress.org/about/)
+  [source](https://wordpress.org/about/)
 
 12. Does the project have a BDFL, or Lead Developer? (BDFL == Benevolent
 Dictator for Life)
-- Lead Developers: (https://wordpress.org/about/)
+- Lead Developers: [source](https://wordpress.org/about/)
     - Helen Hou-Sandí
     - Dion Hulse
     - Mark Jaquith
@@ -165,7 +164,7 @@ during development? Who is responsible for quality control and bug repair?
   because of the architecture of the community, a large number of contributions
   via patches get “filtered” through a smaller number of people. As such, the
   number of contributors has remained roughly the same over time.
-  (https://www.openhub.net/p/wordpress)
+  [source](https://www.openhub.net/p/wordpress)
 
 16. In your opinion, does the project pass "The Raptor Test?" (i.e. Would the
 project survive if the BDFL, or most active contributor were eaten by a
@@ -181,7 +180,7 @@ Velociraptor?) Why or why not?
 contributor guides, quickstarts, communication leads who focus specifically on
 newbies, etc...)
   - There is a Contributor Handbook, but it’s in a very rough state:
-  https://make.wordpress.org/core/handbook/
+  [handbook](https://make.wordpress.org/core/handbook/)
 
 19. Does the project have Documentation available? Is it extensive? Does it
 include code examples?
@@ -199,9 +198,8 @@ structure/process of this group? Is it hierarchical, consensus building, ruled
 by a small group, barely contained chaos, or ruled by a single or pair of
 individuals?
   - It’s a small group - one can only make changes with discrete patch files,
-  not pull requests. Patches are submitted to the bug tracker
-  (https://core.trac.wordpress.org/) and assessed / merged from there by core
-  devs.
+  not pull requests. Patches are submitted to the [bug tracker](https://core.trac.wordpress.org/)
+  and assessed / merged from there by core devs.
 
 22. Is this the kind of structure you would enjoy working in? Why, or why not?
   - While the strict structure resulted in a very robust and very stable core
@@ -216,7 +214,7 @@ individuals?
 2. What was the technology designed to do? How was it used?
   - "...the mission of the WordPress open source project: to democratize
   publishing through Open Source, GPL software."
-  (http://codex.wordpress.org/WordPress_Policies)
+  [source](http://codex.wordpress.org/WordPress_Policies)
   - It is a browser based CMS / blogging platform.
 
 3. Who would benefit from using this technology?
@@ -230,4 +228,4 @@ concerned about the development of this technology? Why?
 5. Did an aspect of copyright law play a role in controversies about the
 technology? How?
   - A case of a fraudulent DMCA (fairly recent as well!):
-  http://www.theverge.com/2015/3/9/8175491/wordpress-automattic-wins-dmca-takedown-straight-pride-uk-case
+  [case](http://www.theverge.com/2015/3/9/8175491/wordpress-automattic-wins-dmca-takedown-straight-pride-uk-case)
