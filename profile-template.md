@@ -3,7 +3,7 @@ Profile: %Subject%
 
 ### Authors
 
-- Name <handle/email>
+- Name ([handle](http://example.com/))
 
 ### Rationale
 
@@ -36,8 +36,7 @@ How did you/your group decide on and agree?
 
 - Does your subject participate in social media?
 - If yes, please list a URL for each account, and reach within that community.
-- Example:
-        - [Twitter: @RedHatNews](https://twitter.com/redhatnews) - 61.9K Followers.
+- Example: [Twitter: @RedHatNews](https://twitter.com/redhatnews) - 61.9K Followers.
 
 ### Communications channels for COMPANY
 
@@ -54,12 +53,12 @@ How did you/your group decide on and agree?
 Your subject likely runs or contributes to one or more Open Source products or projects. Choose one (or more) of these and answer the following questions:
 
 - If applicable, list and provide links to:
-        - The project's IRC Channel
-        - Source Code repository
-        - Mail list archive
-        - Documentation
-        - Other communication channels
-        - Project Website and/or Blog
+    - The project's IRC Channel
+    - Source Code repository
+    - Mail list archive
+    - Documentation
+    - Other communication channels
+    - Project Website and/or Blog
 
 - Describe the software project, its purpose and goals.
 - Give brief history of the project. When was the Initial Commit? The latest commit?
@@ -82,7 +81,7 @@ Your subject likely runs or contributes to one or more Open Source products or p
 
 ## Technology/Product
 
-Section adapted from [EFF](EFF) [Worksheet](http://www.teachingcopyright.org/handout/technology-history-worksheet)
+Section adapted from [EFF Worksheet](http://www.teachingcopyright.org/handout/technology-history-worksheet)
 
 - Who invented, created, or sponsored the technology?
 - What is the technology designed to do? How is it used?
