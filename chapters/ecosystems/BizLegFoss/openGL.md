@@ -36,9 +36,16 @@ OpenGL is a widely used library for rendering accelerated graphics. Given its wi
     - 15 Academic Members (Participants with NO voting rights)
     - 12 Promoters (function as Board of Directors)
 - Where is HQ?
-  - 15500 SW JAY ST 45043, BEAVERTON, OR 97006-6018 USA
+```
+15500 SW JAY ST 45043
+BEAVERTON, OR 97006-6018 USA
+```
 - Does it have any other offices or locations?
-  - Khronos Group Inc, 9450 SW Gemini Drive, #45043, Beaverton, Oregon 97008-6018, USA
+```
+Khronos Group Inc
+9450 SW Gemini Drive
+#45043, Beaverton, Oregon 97008-6018, USA
+```
 - Website?
   - [khronos.org](https://www.khronos.org/)
   - [opengl.org](https://www.opengl.org/)
