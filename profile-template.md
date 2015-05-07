@@ -44,8 +44,7 @@ What communication channels does your subject use to reach their public? Briefly
 
 ### COMPANY Conference Participation
 
-- Does your subject organize or participate in any conferences?
-- If so, list them here, and provide links to any relevant sessions, keynotes, or content.
+Does your subject organize or participate in any conferences? If so, list them here, and provide links to any relevant sessions, keynotes, or content.
 
 ## Community Architecture
 
