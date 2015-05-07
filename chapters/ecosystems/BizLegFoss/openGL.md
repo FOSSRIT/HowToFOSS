@@ -1,5 +1,5 @@
 Profile: Open GL & Khronos Group
-==================
+================================
 
 ### Authors
 
@@ -55,7 +55,7 @@ OpenGL is a widely used library for rendering accelerated graphics. Given its wi
 
 ## Communications
 
-### Social media for COMPANY
+### Social media for the Khronos Group
 
 - [Facebook](https://www.facebook.com/TheKhronosGroup) - 1512 likes
 - [Twitter](https://twitter.com/thekhronosgroup) - 5579 Tweets, 5333 Followers
@@ -65,18 +65,19 @@ OpenGL is a widely used library for rendering accelerated graphics. Given its wi
 - [Slideshare](http://www.slideshare.net/Khronos_Group) - 67 SlideShares, 88 Followers
 - [Google+](https://plus.google.com/+khronos/posts) - 117 Followers, 8119 Views
 
-### Communications channels for COMPANY
+### Communications channels for the Khronos Group
 
 What communication channels does your subject use to reach their public? Briefly describe and include a URL for each.
   - Khronos group hosts their own [new feeds](https://www.khronos.org/news)
     typically makes major announcements at conferences such as SIGGRAPH and GDC.
 
-### COMPANY Conference Participation
+### Khronos Group Conference Participation
 
-- Does your subject organize or participate in any conferences? If so, list them here, and provide links to any relevant sessions, keynotes, or content.
-  - [SIGGRAPH](https://www.khronos.org/news/events/2015-siggraph)
-  - [GDC](https://www.khronos.org/news/events/gdc-2015)
-  - More events are listed in their [event archives](https://www.khronos.org/news/events-archives)
+Does your subject organize or participate in any conferences? If so, list them here, and provide links to any relevant sessions, keynotes, or content.
+
+- [SIGGRAPH](https://www.khronos.org/news/events/2015-siggraph)
+- [GDC](https://www.khronos.org/news/events/gdc-2015)
+- More events are listed in their [event archives](https://www.khronos.org/news/events-archives)
 
 ## Community Architecture
 
@@ -96,7 +97,6 @@ Your subject likely runs or contributes to one or more Open Source products or p
     - Usenet newsgroup: comp.graphics.api.opengl
   - Project Website and/or Blog
     - [opengl.org](https://www.opengl.org/)
-
 - Describe the software project, its purpose and goals.
   - "OpenGL is the premier environment for developing portable, interactive 2D and 3D graphics applications" ([source](https://www.opengl.org/))
   - "Khronos’ primary products are open specifications and associated conformance tests that enable hardware and software communities to effectively communicate with each other" ([source](https://www.khronos.org/members/ip-framework))
