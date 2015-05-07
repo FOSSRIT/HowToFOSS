@@ -34,14 +34,13 @@ How did you/your group decide on and agree?
 
 ### Social media for COMPANY
 
-- Does your subject participate in social media?
-- If yes, please list a URL for each account, and reach within that community.
-- Example: [Twitter: @RedHatNews](https://twitter.com/redhatnews) - 61.9K Followers.
+Does your subject participate in social media? If yes, please list a URL for each account, and reach within that community.
+
+Example: [Twitter: @RedHatNews](https://twitter.com/redhatnews) - 61.9K Followers.
 
 ### Communications channels for COMPANY
 
-- What communication channels does your subject use to reach their public?
-- Briefly describe and include a URL for each.
+What communication channels does your subject use to reach their public? Briefly describe and include a URL for each.
 
 ### COMPANY Conference Participation
 
