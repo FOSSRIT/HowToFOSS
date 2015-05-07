@@ -36,7 +36,7 @@ How did you/your group decide on and agree?
 
 Does your subject participate in social media? If yes, please list a URL for each account, and reach within that community.
 
-Example: [Twitter: @RedHatNews](https://twitter.com/redhatnews) - 61.9K Followers.
+- *Example: [Twitter: @RedHatNews](https://twitter.com/redhatnews) - 61.9K Followers.*
 
 ### Communications channels for COMPANY
 
