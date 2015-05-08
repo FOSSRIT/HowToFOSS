@@ -3,7 +3,7 @@ Profile: %Subject%
 
 ### Authors
 
-- Name <handle/email>
+- Name ([handle](http://example.com/))
 
 ### Rationale
 
@@ -34,36 +34,31 @@ How did you/your group decide on and agree?
 
 ### Social media for COMPANY
 
-- Does your subject participate in social media?
-- If yes, please list a URL for each account, and reach within that community.
-- Example:
-        - [Twitter: @RedHatNews](https://twitter.com/redhatnews) - 61.9K Followers.
+Does your subject participate in social media? If yes, please list a URL for each account, and reach within that community.
+
+- *Example: [Twitter: @RedHatNews](https://twitter.com/redhatnews) - 61.9K Followers.*
 
 ### Communications channels for COMPANY
 
-- What communication channels does your subject use to reach their public?
-- Briefly describe and include a URL for each.
+What communication channels does your subject use to reach their public? Briefly describe and include a URL for each.
 
 ### COMPANY Conference Participation
 
-- Does your subject organize or participate in any conferences?
-- If so, list them here, and provide links to any relevant sessions, keynotes, or content.
+Does your subject organize or participate in any conferences? If so, list them here, and provide links to any relevant sessions, keynotes, or content.
 
 ## Community Architecture
 
 Your subject likely runs or contributes to one or more Open Source products or projects. Choose one (or more) of these and answer the following questions:
 
 - If applicable, list and provide links to:
-        - The project's IRC Channel
-        - Source Code repository
-        - Mail list archive
-        - Documentation
-        - Other communication channels
-        - Project Website and/or Blog
-
+    - The project's IRC Channel
+    - Source Code repository
+    - Mail list archive
+    - Documentation
+    - Other communication channels
+    - Project Website and/or Blog
 - Describe the software project, its purpose and goals.
 - Give brief history of the project. When was the Initial Commit? The latest commit?
-
 - Who approves patches? How many people?
 - Who has commit access, or has had patches accepted?  How many total?
 - Has there been any turnover in the Core Team? (i.e. has the top 20% of contributors stayed the same over time? If not, how has it changed?)
@@ -82,7 +77,7 @@ Your subject likely runs or contributes to one or more Open Source products or p
 
 ## Technology/Product
 
-Section adapted from [EFF](EFF) [Worksheet](http://www.teachingcopyright.org/handout/technology-history-worksheet)
+Section adapted from [EFF Worksheet](http://www.teachingcopyright.org/handout/technology-history-worksheet)
 
 - Who invented, created, or sponsored the technology?
 - What is the technology designed to do? How is it used?
