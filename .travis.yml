@@ -2,7 +2,7 @@ language: node_js
 node:
 - '0.10'
 install:
-- npm install -g gitbook
+- npm install -g gitbook-cli
 script:
 - gitbook build
 after_success:
