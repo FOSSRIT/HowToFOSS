@@ -13,6 +13,8 @@ There are **so** many subjects you could choose to profile, so why did you choos
 What drew you into wanting to know more about the organization?
 How did you/your group decide on and agree?
 
+Patreon is a popular crowdfunding service that recently acquired Subbable. We wish to learn the details involved in operating a crowdfunding
+
 
 ## Organizational Details
 
@@ -30,7 +32,7 @@ How did you/your group decide on and agree?
 - Publicly Traded? Since when? Initial Stock Price? Current stock price?
   - No
 - Has the company made any acquisitions? If yes, which companies, and what were their core products?
-  - [Subbable](https://subbable.com/)
+  - Patreon recently acquired [Subbable](https://subbable.com/) in March of 2015.
   - Their core product is their website, which allows you to subscribe to one of their “Creators” and fund products through them. The website itself only takes enough money to support its servers and amazon’s payment system. The rest goes to the creator that you would be supporting.
 - Has the company made any investments in other companies? If yes, which ones.
   - No
@@ -166,7 +168,10 @@ Section adapted from [EFF Worksheet](http://www.teachingcopyright.org/handout/te
 ## Business and Revenue Model
 
 - How was this organization funded originally?
+  - Patreon recieved $2.1 million in funding from venture capitalists and angel investors.
 - How does this organization make revenue?
+  - Patreon recieves 5% from every pledge made. Users can also donate directly to Patreon (using Patreon).
 - Which specific Open Source Revenue Models are utilized?
+  - Voluntary donations
 - What investments/acquisitions has the organization made?
-
+  - Patreon recently acquired [Subbable](https://subbable.com/) in March of 2015.

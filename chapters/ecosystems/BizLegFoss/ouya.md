@@ -13,6 +13,7 @@ There are **so** many subjects you could choose to profile, so why did you choos
 What drew you into wanting to know more about the organization?
 How did you/your group decide on and agree?
 
+The Ouya was a popular crowdfunded game console that seemed quite promising. However, it has gained little attention over the years. We wish to know more about Ouya Inc, and any troubles it may have had.
 
 ## Organizational Details
 
@@ -169,7 +170,10 @@ Section adapted from [EFF Worksheet](http://www.teachingcopyright.org/handout/te
 ## Business and Revenue Model
 
 - How was this organization funded originally?
+  - It was crowdfunded using a kickstarter campaign, which raised $8.6M.
 - How does this organization make revenue?
+  - Ouya Inc sells game consoles, controllers, and customization accessories for their hardware.
 - Which specific Open Source Revenue Models are utilized?
+  - Selling hardware, and accessories.
 - What investments/acquisitions has the organization made?
-
+  - No

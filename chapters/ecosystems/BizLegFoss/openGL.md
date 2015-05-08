@@ -19,7 +19,7 @@ OpenGL is a widely used library for rendering accelerated graphics. Given its wi
 - What type?
   - non-profit, member-funded consortium
 - When was it founded?
-  - Started with the “OpenGL Architecture Review Board” in 1992. The first release of OpenGL was written by Mark Segal and Kurt Akeley. The Khronos Group was founded in 2000
+  - Started with the "OpenGL Architecture Review Board" in 1992. The first release of OpenGL was written by Mark Segal and Kurt Akeley. The Khronos Group was founded in 2000
 - By whom?
   - 3Dlabs, ATI, Discreet, Evans & Sutherland, Intel, NVIDIA, Silicon Graphics (SGI) and Sun Microsystem. These members formed the "OpenGL Architecture Review Board", which transferred control to the Khronos group in 2006.
 - Original founder(s) still active?
@@ -164,7 +164,10 @@ Section adapted from [EFF Worksheet](http://www.teachingcopyright.org/handout/te
 ## Business and Revenue Model
 
 - How was this organization funded originally?
+  - The khronos Group charges memebership fees. These fees range from $1000 - $60,000. Fees are often waived for open source projects wishing to join.
 - How does this organization make revenue?
+  - See above
 - Which specific Open Source Revenue Models are utilized?
+  - Membership in order to recieve professional services (conformance tests), and branding rights.
 - What investments/acquisitions has the organization made?
-
+  - No

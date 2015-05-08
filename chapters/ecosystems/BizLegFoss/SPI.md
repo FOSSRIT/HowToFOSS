@@ -187,6 +187,10 @@ Section adapted from [EFF Worksheet](http://www.teachingcopyright.org/handout/te
 ## Business and Revenue Model
 
 - How was this organization funded originally?
+  - SPI takes 5% of donations
 - How does this organization make revenue?
+  - See above
 - Which specific Open Source Revenue Models are utilized?
+  - Voluntary donations
 - What investments/acquisitions has the organization made?
+  - No
