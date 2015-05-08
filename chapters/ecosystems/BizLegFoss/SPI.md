@@ -4,7 +4,7 @@ Profile: Software in the Public Interest
 ### Authors
 
 - Fernando Ellis ([fortnight](http://blog-fortnight.rhcloud.com/))
-- Brendan Whitfield ([beWhitty](http://brendan-w.com/)) 
+- Brendan Whitfield ([beWhitty](http://brendan-w.com/))
 
 ### Rationale
 

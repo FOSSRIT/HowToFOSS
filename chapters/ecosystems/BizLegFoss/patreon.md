@@ -5,7 +5,7 @@ Profile: Patreon
 
 - Fernando Ellis ([fortnight](http://blog-fortnight.rhcloud.com/))
 - Andrew Mangula ([ajman1101](http://www.andrewmandula.com/))
-- Brendan Whitfield ([beWhitty](http://brendan-w.com/)) 
+- Brendan Whitfield ([beWhitty](http://brendan-w.com/))
 
 ### Rationale
 
