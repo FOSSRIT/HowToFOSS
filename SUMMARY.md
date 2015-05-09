@@ -27,6 +27,7 @@
    * [Startups/Contemporary Issues](chapters/bizleg-case-studies/startups/index.md)
       * [CodeCombat](chapters/bizleg-case-studies/startups/CodeCombat.md)
       * [Ouya](chapters/bizleg-case-studies/startups/ouya.md)
+      * [BeagleBoard Organization](chapters/bizleg-case-studies/startups/BeagleBoard.md)
    * [Crowdfunding/Crowdfunded](chapters/bizleg-case-studies/crowdfunding/index.md)
       * [BountySource](chapters/bizleg-case-studies/crowdfunding/bountysource.md)
       * [Patreon](chapters/bizleg-case-studies/crowdfunding/patreon.md)
