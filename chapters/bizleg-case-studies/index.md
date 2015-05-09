@@ -8,6 +8,7 @@
    * [Software in the Public Interest](fiscal-sponsorship/SPI.md)
 * [Startups/Contemporary Issues](startups/index.md)
    * [CodeCombat](startups/CodeCombat.md)
+   * [Ouya](startups/ouya.md)
 * [Crowdfunding/Crowdfunded](crowdfunding/index.md)
    * [BountySource](crowdfunding/bountysource.md)
 * [Civic Hacking/Dark Arts](chapters/bizleg-case-studies/light-side-dark-side/index.md)
