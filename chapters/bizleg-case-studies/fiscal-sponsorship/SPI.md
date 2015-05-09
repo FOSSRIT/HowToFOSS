@@ -116,7 +116,7 @@ Your subject likely runs or contributes to one or more Open Source products or p
 Project of choice: **Arch Linux**
 
 - If applicable, list and provide links to:
-    - The project's IRC Channel: #archlinux
+    - The project's IRC Channel: \#archlinux
     - [Source Code repository](https://projects.archlinux.org/)
     - [Mail list archive](https://lists.archlinux.org//listinfo/)
     - [Documentation](https://wiki.archlinux.org/)

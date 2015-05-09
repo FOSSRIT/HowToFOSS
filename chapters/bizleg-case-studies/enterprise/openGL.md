@@ -92,7 +92,7 @@ Your subject likely runs or contributes to one or more Open Source products or p
 
 - If applicable, list and provide links to:
   - The project's IRC Channel
-    - #opengl
+    - \#opengl
   - Source Code repository
     - OpenGL is not open source, but rather an open specification. As such they do not have an code repository, but updating your drivers will usually get you the most recent release of the graphics implementation.
   - Mail list archive

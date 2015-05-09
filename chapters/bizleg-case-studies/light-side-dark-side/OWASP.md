@@ -23,10 +23,10 @@ We simply never heard of OWASP, so why not find out more about it?
 
  - ### Social media for OWASP
 
-  - [Facebook] (https://www.facebook.com/pages/Open-Web-Application-Security-Project/296236753839074) - 8,900 likes.
-  - [Twitter] (https://twitter.com/owasp) - 41,600 followers.
-  - [Google+] (https://plus.google.com/communities/105181517914716500346 ) - 2293 members.
-  - [LinkedIn] (https://www.linkedin.com/groups/Global-OWASP-Foundation-36874)
+  - [Facebook](https://www.facebook.com/pages/Open-Web-Application-Security-Project/296236753839074) - 8,900 likes.
+  - [Twitter](https://twitter.com/owasp) - 41,600 followers.
+  - [Google+](https://plus.google.com/communities/105181517914716500346 ) - 2293 members.
+  - [LinkedIn](https://www.linkedin.com/groups/Global-OWASP-Foundation-36874)
 
  - ### Communications channels for OWASP
 
@@ -35,19 +35,19 @@ We simply never heard of OWASP, so why not find out more about it?
 - ### OWASP Conference Participation
 
  - OWASP does participate in their own AppSec conferences, both in the EU and in the US.
-    - [OWASP AppSecEU (2015)] (http://2015.appsec.eu/conference-program/)
-    - [OWASP AppSecUSA (2015)] (http://2015.appsecusa.org/c/)
+    - [OWASP AppSecEU (2015)](http://2015.appsec.eu/conference-program/)
+    - [OWASP AppSecUSA (2015)](http://2015.appsecusa.org/c/)
 
 ## Community Architecture
 
 - OWASP does not have a source code repository itself as it is a coalition of projects. For this section we decided to write about one of their flagship projects in review called "[Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check)"
 
 - If applicable, list and provide links to:
-	- [Source Code repository] (https://github.com/jeremylong/DependencyCheck)
-	- [Mailing list] (http://jeremylong.github.io/DependencyCheck/mail-lists.html)
-	- [Documentation] (http://jeremylong.github.io/DependencyCheck/)
-  - [Issue Tracker] (http://jeremylong.github.io/DependencyCheck/issue-tracking.html)
-  - [Website] (http://jeremylong.github.io/DependencyCheck/)
+	- [Source Code repository](https://github.com/jeremylong/DependencyCheck)
+	- [Mailing list](http://jeremylong.github.io/DependencyCheck/mail-lists.html)
+	- [Documentation](http://jeremylong.github.io/DependencyCheck/)
+  - [Issue Tracker](http://jeremylong.github.io/DependencyCheck/issue-tracking.html)
+  - [Website](http://jeremylong.github.io/DependencyCheck/)
 - Dependency-check is an open source solution the OWASP Top 10 2013 entry: A9 - Using Components with Known Vulnerabilities. Dependency-check can currently be used to scan Java applications (and their dependent libraries) to identify known vulnerable components.
 - Initial commit was on September 6th, 2012. Latest commit was on May 6th, 2015.
 - Jeremy Long is the only one who can approve patches.

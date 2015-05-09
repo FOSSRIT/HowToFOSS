@@ -96,7 +96,7 @@ Your subject likely runs or contributes to one or more Open Source products or p
 
 - If applicable, list and provide links to:
     - The project's IRC Channel
-      - #ouya on irc.freenode.net (unofficial)
+      - \#ouya on irc.freenode.net (unofficial)
     - Source Code repository
       - [Github](https://github.com/ouya)
     - Mail list archive
