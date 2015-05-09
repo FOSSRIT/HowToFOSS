@@ -19,6 +19,7 @@
       * [Acquia / Drupal](chapters/bizleg-case-studies/enterprise/AcquiaDrupal.md)
    * [Fiscal Sponsorship](chapters/bizleg-case-studies/fiscal-sponsorship/index.md)
       * [Eclipse Foundation](chapters/bizleg-case-studies/fiscal-sponsorship/EclipseFoundation.md)
+      * [Software Freedom Conservancy](chapters/bizleg-case-studies/fiscal-sponsorship/SoftwareFreedomConservancy.md)
    * [Startups/Contemporary Issues](chapters/bizleg-case-studies/startups/index.md)
       * [CodeCombat](chapters/bizleg-case-studies/startups/CodeCombat.md)
    * [Crowdfunding/Crowdfunded](chapters/bizleg-case-studies/crowdfunding/index.md)
