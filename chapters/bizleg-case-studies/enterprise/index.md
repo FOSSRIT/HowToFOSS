@@ -1,4 +1,4 @@
 # Enterprise
 
 * [Acquia / Drupal](AcquiaDrupal.md)
-* [OpenGL / Khronos Group](openGL.html)
+* [OpenGL / Khronos Group](openGL.md)
