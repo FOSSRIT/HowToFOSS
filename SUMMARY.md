@@ -18,7 +18,7 @@
    * [Enterprise](chapters/bizleg-case-studies/enterprise/index.md)
       * [Acquia / Drupal](chapters/bizleg-case-studies/enterprise/AcquiaDrupal.md)
       * [Khronos Group / OpenGL](chapters/bizleg-case-studies/enterprise/openGL.md)
-      * [Canonical / Ubuntu](chapters/enterprise/Canonical-Ubuntu.md)
+      * [Canonical / Ubuntu](chapters/bizleg-case-studies/enterprise/Canonical-Ubuntu.md)
    * [Fiscal Sponsorship](chapters/bizleg-case-studies/fiscal-sponsorship/index.md)
       * [Eclipse Foundation](chapters/bizleg-case-studies/fiscal-sponsorship/EclipseFoundation.md)
       * [Software in the Public Interest](chapters/bizleg-case-studies/fiscal-sponsorship/SPI.md)
