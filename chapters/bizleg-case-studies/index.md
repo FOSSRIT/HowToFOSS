@@ -11,5 +11,6 @@
    * [Ouya](startups/ouya.md)
 * [Crowdfunding/Crowdfunded](crowdfunding/index.md)
    * [BountySource](crowdfunding/bountysource.md)
+   * [Patreon](croudfunding/patreon.html)
 * [Civic Hacking/Dark Arts](chapters/bizleg-case-studies/light-side-dark-side/index.md)
    * [Sugar / OLPC](light-side-dark-side/SugarOLPC.md)
