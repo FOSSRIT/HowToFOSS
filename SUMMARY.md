@@ -17,7 +17,6 @@
 * [Business and Legal Profiles](chapters/bizleg-case-studies/index.md)
    * [Enterprise](chapters/bizleg-case-studies/enterprise/index.md)
       * [Acquia / Drupal](chapters/bizleg-case-studies/enterprise/AcquiaDrupal.md)
-      * [Apple / WebKit](chapters/bizleg-case-studies/enterprise/AppleWebkit.md)
    * [Fiscal Sponsorship](chapters/bizleg-case-studies/fiscal-sponsorship/index.md)
       * [Eclipse Foundation](chapters/bizleg-case-studies/fiscal-sponsorship/EclipseFoundation.md)
    * [Startups/Contemporary Issues](chapters/bizleg-case-studies/startups/index.md)
