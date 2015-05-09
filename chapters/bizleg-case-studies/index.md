@@ -2,6 +2,7 @@
 
 * [Enterprise](enterprise/index.md)
    * [Acquia / Drupal](enterprise/AcquiaDrupal.md)
+   * [Canonical / Ubuntu](enterprise/Canonical-Ubuntu.md)
 * [Fiscal Sponsorship](fiscal-sponsorship/index.md)
    * [Eclipse Foundation](fiscal-sponsorship/EclipseFoundation.md)
 * [Startups/Contemporary Issues](startups/index.md)
