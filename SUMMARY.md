@@ -24,6 +24,7 @@
       * [Eclipse Foundation](chapters/bizleg-case-studies/fiscal-sponsorship/EclipseFoundation.md)
       * [Software in the Public Interest](chapters/bizleg-case-studies/fiscal-sponsorship/SPI.md)
       * [Linux Foundation](chapters/bizleg-case-studies/fiscal-sponsorship/LinuxFoundation.md)
+      * [Apache Software Foundation](chapters/bizleg-case-studies/fiscal-sponsorship/ASF.md)
    * [Startups/Contemporary Issues](chapters/bizleg-case-studies/startups/index.md)
       * [CodeCombat](chapters/bizleg-case-studies/startups/CodeCombat.md)
       * [Ouya](chapters/bizleg-case-studies/startups/ouya.md)
