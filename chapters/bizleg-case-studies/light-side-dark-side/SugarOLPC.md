@@ -36,7 +36,7 @@ Julien is currently working on a project to upgrade the Sugar OS for the OLPC.
 
 ### Social media for Sugar Labs
 
-- [IRC] (Freenode, #sugar)
+- [IRC](Freenode, #sugar)
 - [Twitter: @sugarlabs](https://twitter.com/sugarlabs) - 287 Followers.
 
 ### Communications channels for Sugar Labs

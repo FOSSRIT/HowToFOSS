@@ -45,7 +45,7 @@ One of our fellow students from the box has made a decent amount of money collec
 ## Community Architecture
 Your subject likely runs or contributes to one or more Open Source products or projects. Choose one (or more) of these and answer the following questions:
 - If applicable, list and provide links to:
-	- #bountysource on Freenode
+	- \#bountysource on Freenode
 	- [Source Code](https://github.com/bountysource/frontend/)
 	- Mail list archive
 	- [Documentation](https://github.com/bountysource/frontend/wiki/)

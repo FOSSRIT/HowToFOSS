@@ -75,7 +75,7 @@ They have a minimal social media presence.
 
 ### Communications channels for WebKit
 
-IRC Channel: freenode #webkit
+IRC Channel: freenode \#webkit
 
 SVN Repository Link:  [http://svn.webkit.org/repository/webkit/trunk][11]
 
