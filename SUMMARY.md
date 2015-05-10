@@ -20,6 +20,7 @@
       * [Khronos Group / OpenGL](chapters/bizleg-case-studies/enterprise/openGL.md)
       * [Canonical / Ubuntu](chapters/bizleg-case-studies/enterprise/Canonical-Ubuntu.md)
       * [GitHub](chapters/bizleg-case-studies/enterprise/GitHub.md)
+      * [Arduino](chapters/bizleg-case-studies/enterprise/Arduino.md)
       * [Apple / WebKit](chapters/bizleg-case-studies/enterprise/AppleWebKit.md)
    * [Fiscal Sponsorship](chapters/bizleg-case-studies/fiscal-sponsorship/index.md)
       * [Eclipse Foundation](chapters/bizleg-case-studies/fiscal-sponsorship/EclipseFoundation.md)
