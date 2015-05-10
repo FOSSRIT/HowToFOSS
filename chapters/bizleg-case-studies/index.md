@@ -5,6 +5,7 @@
    * [Khronos Group / OpenGL](enterprise/openGL.md)
    * [Canonical / Ubuntu](enterprise/Canonical-Ubuntu.md)
    * [GitHub](enterprise/GitHub.md)
+   * [Apple / WebKit](enterprise/AppleWebKit.md)
 * [Fiscal Sponsorship](fiscal-sponsorship/index.md)
    * [Eclipse Foundation](fiscal-sponsorship/EclipseFoundation.md)
    * [Software in the Public Interest](fiscal-sponsorship/SPI.md)
