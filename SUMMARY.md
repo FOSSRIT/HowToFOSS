@@ -29,6 +29,7 @@
       * [Linux Foundation](chapters/bizleg-case-studies/fiscal-sponsorship/LinuxFoundation.md)
       * [Apache Software Foundation](chapters/bizleg-case-studies/fiscal-sponsorship/ASF.md)
       * [The Free Software Foundation](chapters/bizleg-case-studies/fiscal-sponsorship/fsf.md)
+      * [Software Freedom Conservancy](chapters/bizleg-case-studies/fiscal-sponsorship/SoftwareFreedomConservancy.md)
    * [Startups/Contemporary Issues](chapters/bizleg-case-studies/startups/index.md)
       * [CodeCombat](chapters/bizleg-case-studies/startups/CodeCombat.md)
       * [Ouya](chapters/bizleg-case-studies/startups/ouya.md)
