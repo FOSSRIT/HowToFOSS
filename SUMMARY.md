@@ -22,6 +22,7 @@
       * [GitHub](chapters/bizleg-case-studies/enterprise/GitHub.md)
       * [Arduino](chapters/bizleg-case-studies/enterprise/Arduino.md)
       * [Apple / WebKit](chapters/bizleg-case-studies/enterprise/AppleWebKit.md)
+      * [Debian](chapters/bizleg-case-studies/enterprise/debian.md)
    * [Fiscal Sponsorship](chapters/bizleg-case-studies/fiscal-sponsorship/index.md)
       * [Eclipse Foundation](chapters/bizleg-case-studies/fiscal-sponsorship/EclipseFoundation.md)
       * [Software in the Public Interest](chapters/bizleg-case-studies/fiscal-sponsorship/SPI.md)
