@@ -14,6 +14,7 @@
    * [Research Computing](chapters/ecosystems/ritrc.md)
    * [codeRIT](chapters/ecosystems/coderit.md)
    * [WiC](chapters/ecosystems/ritwic.md)
+<<<<<<< HEAD
 * [Business and Legal Profiles](chapters/bizleg-case-studies/index.md)
    * [Enterprise](chapters/bizleg-case-studies/enterprise/index.md)
       * [Acquia / Drupal](chapters/bizleg-case-studies/enterprise/AcquiaDrupal.md)
@@ -42,3 +43,7 @@
       * [Sugar / OLPC](chapters/bizleg-case-studies/light-side-dark-side/SugarOLPC.md)
       * [18f](chapters/bizleg-case-studies/light-side-dark-side/18f.md)
       * [OWASP](chapters/bizleg-case-studies/light-side-dark-side/OWASP.md)
+=======
+   * [BizLegFoss](chapters/ecosystems/BizLegFoss/index.md)
+      * [Wordpress Profile](chapters/ecosystems/BizLegFoss/Wordpress.md)
+>>>>>>> 12c0f36d4c4f4a0186e8ae5bfd750cd69f729237
