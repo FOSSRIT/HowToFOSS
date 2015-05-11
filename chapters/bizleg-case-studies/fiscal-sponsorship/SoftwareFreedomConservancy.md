@@ -74,7 +74,7 @@ Your subject likely runs or contributes to one or more Open Source products or p
 
 - If applicable, list and provide links to:
         - The project's IRC Channel
-			- #conservancy
+			- freenode conservancy
         - Source Code repository
 			- N/A
         - Mail list archive
