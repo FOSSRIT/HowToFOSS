@@ -20,7 +20,7 @@
    * [BeagleBoard Organization](startups/BeagleBoard.md)
 * [Crowdfunding/Crowdfunded](crowdfunding/index.md)
    * [BountySource](crowdfunding/bountysource.md)
-   * [Patreon](croudfunding/patreon.md)
+   * [Patreon](crowdfunding/patreon.md)
    * [IndieGoGo](crowdfunding/IndieGoGo.md)
 * [Civic Hacking/Dark Arts](chapters/bizleg-case-studies/light-side-dark-side/index.md)
    * [Sugar / OLPC](light-side-dark-side/SugarOLPC.md)
