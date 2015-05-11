@@ -4,4 +4,3 @@
 * [Research Computing](ritrc.md)
 * [codeRIT](coderit.md)
 * [WiC](ritwic.md)
-* [BizLegFoss](BizLegFoss/index.md)
