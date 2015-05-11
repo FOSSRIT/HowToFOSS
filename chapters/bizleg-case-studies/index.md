@@ -8,6 +8,7 @@
    * [Arduino](enterprise/Arduino.md)
    * [Apple / WebKit](enterprise/AppleWebKit.md)
    * [Debian](enterprise/debian.md)
+   * [Wordpress](enterprise/Wordpress.md)
 * [Fiscal Sponsorship](fiscal-sponsorship/index.md)
    * [Eclipse Foundation](fiscal-sponsorship/EclipseFoundation.md)
    * [Software in the Public Interest](fiscal-sponsorship/SPI.md)
