@@ -14,6 +14,7 @@
    * [Linux Foundation](fiscal-sponsorship/LinuxFoundation.md)
    * [Apache Software Foundation](fiscal-sponsorship/ASF.md)
    * [The Free Software Foundation](fiscal-sponsorship/fsf.md)
+   * [Software Freedom Conservancy](fiscal-sponsorship/SoftwareFreedomConservancy.md)
 * [Startups/Contemporary Issues](startups/index.md)
    * [CodeCombat](startups/CodeCombat.md)
    * [Ouya](startups/ouya.md)
