@@ -91,7 +91,7 @@ News: [FSF RSS Feed](https://www.fsf.org/news/)
 > What communication channels does your subject use to reach their public? Briefly describe and include a URL for each.
 
 Monthly Newsletter: [The Free Software Supporter](https://www.fsf.org/free-software-supporter/)
-Chatroom (IRC): #libreplanet on FreeNode
+Chatroom (IRC): \#libreplanet on FreeNode
 Official Blog: [Here](https://www.fsf.org/blogs/)
 
 
@@ -110,7 +110,7 @@ Official Blog: [Here](https://www.fsf.org/blogs/)
 
 > The project's IRC Channel
 
-#coreboot on Freenode
+\#coreboot on Freenode
 
 > Source Code repository
 
