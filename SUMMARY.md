@@ -37,6 +37,7 @@
    * [Crowdfunding/Crowdfunded](chapters/bizleg-case-studies/crowdfunding/index.md)
       * [BountySource](chapters/bizleg-case-studies/crowdfunding/bountysource.md)
       * [Patreon](chapters/bizleg-case-studies/crowdfunding/patreon.md)
+      * [IndieGoGo](chapters/bizleg-case-studies/crowdfunding/IndieGoGo.md)
    * [Civic Hacking/Dark Arts](chapters/bizleg-case-studies/light-side-dark-side/index.md)
       * [Sugar / OLPC](chapters/bizleg-case-studies/light-side-dark-side/SugarOLPC.md)
       * [18f](chapters/bizleg-case-studies/light-side-dark-side/18f.md)
