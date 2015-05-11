@@ -1,11 +1,11 @@
-Profile: %COMPANY%
+Profile: Debian
 ==================
 
 ### Authors
 
 - [Derin Yarsuvat (Beruberufunbot)](mailto:derin@ml1.net)
 - [Chris Knepper (chrisknepper)](mailto:http://chrisknepper.com/)
-- [Joe Trotta](mailto:42istheanswer.whatsthequestion@gmail.com)
+- [Joe Trotta (h2g2guy)](mailto:42istheanswer.whatsthequestion@gmail.com)
 
 ### Rationale
 
