@@ -15,46 +15,60 @@ Fairly arbitrary, but Will is a Coinbase user so we went for it.
 ## Coinbase Organizational Details
 
 > Is the subject of your profile a corporate entity?
+
 Yes, [Coinbase is a corporation.][1]
 
 > What type?
+
 [NOT Publicly traded][1]
 
 > When was it founded?
+
 2012
 
 > By whom?
+
 Brian Armstrong and Fred Ehrsam
 
 > Original founder(s) still active?
+
 Yes
 
 > Publicly Traded? Since when? Initial Stock Price? Current stock price?
+
 N/A
 
 > Has the company made any acquisitions? If yes, which companies, and what were their core products?
+
 * Blockr.io - Raw transaction processor
 * Kippt - Design firm
 
 > Has the company made any investments in other companies? If yes, which ones.
+
 No
 
 > Number of Employees?
+
 101-250 Employees, 52 Team members, 3 adisors
 
 > Where is HQ?
+
 San Francisco, California, U.S.
 
 > Does it have any other offices or locations?
+
 Several [headquarters across the world][7] with smaller offices and retail stores throughout.
 
 > Website?
+
 [www.Coinbase.com][3]
 
 > Wikipedia?
+
 [http://en.wikipedia.org/wiki/Coinbase][4]
 
 > Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
+
 No
 
 
