@@ -54,11 +54,11 @@ npm install -g gitbook-cli
 In the folder where you cloned this repository, run:
 
 ```
-gitbook-cli build
+gitbook build
 ```
 
-This builds an HTML version of the book. You can also use `gitbook-cli pdf`,
-`gitbook-cli epub`, or `gitbook-cli mobi`.
+This builds an HTML version of the book. You can also use `gitbook pdf`,
+`gitbook epub`, or `gitbook mobi`.
 
 ## License
 
