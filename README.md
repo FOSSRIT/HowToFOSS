@@ -46,10 +46,10 @@ after a few minutes.
 ## Building Locally
 
 [GitBook](https://github.com/GitbookIO/gitbook) requires
-[node.js](http://nodejs.org/) to be installed. To install Gitbook:
+[node.js](http://nodejs.org/) to be installed. To install Gitbook CLI:
 
 ```
-npm install -g gitbook
+npm install -g gitbook-cli
 ```
 In the folder where you cloned this repository, run:
 
