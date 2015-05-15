@@ -44,3 +44,4 @@
       * [Sugar / OLPC](chapters/bizleg-case-studies/light-side-dark-side/SugarOLPC.md)
       * [18f](chapters/bizleg-case-studies/light-side-dark-side/18f.md)
       * [OWASP](chapters/bizleg-case-studies/light-side-dark-side/OWASP.md)
+      * [Tor](chapters/bizleg-case-studies/light-side-dark-side/tor.md)

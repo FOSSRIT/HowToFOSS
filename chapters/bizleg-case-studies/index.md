@@ -29,3 +29,4 @@
    * [Sugar / OLPC](light-side-dark-side/SugarOLPC.md)
    * [18f](light-side-dark-side/18f.md)
    * [The Open Web Application Security Project (OWASP)](light-side-dark-side/OWASP.md)
+   * [Tor](light-side-dark-side/tor.md)
