@@ -15,7 +15,9 @@ Profile: Tor
 > choose this one? What drew you into wanting to know more about the
 > organization? How did you/your group decide on and agree?
 
-answer
+Tor is a project that has significant impact on the world today. With users
+being uncertain of the privacy of their online activities, Tor is a tool that
+we think will be looked to increasingly for protection.
 
 ## Organizational Details
 
