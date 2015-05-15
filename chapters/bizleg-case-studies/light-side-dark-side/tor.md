@@ -8,8 +8,8 @@ Profile: Tor
 ### Rationale
 
 > There are *so* many subjects you could choose to profile, so why did you
-choose this one? What drew you into wanting to know more about the
-organization? How did you/your group decide on and agree?
+> choose this one? What drew you into wanting to know more about the
+> organization? How did you/your group decide on and agree?
 
 answer
 
