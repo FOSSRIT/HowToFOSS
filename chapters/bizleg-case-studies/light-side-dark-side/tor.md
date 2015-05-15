@@ -3,7 +3,11 @@ Profile: Tor
 
 ### Authors
 
-- [Name (handle)](http://example.com/)
+- [Wyatt Winters](http://wyattwinters.com)
+- [Caleb Coffie](https://calebcoffie.com)
+- [Joseph Trotta](http://workcodeplay.com)
+- [Chris Knepper](https://chrisknepper.com/)
+- [Derin Yarsuvat](https://github.com/Berulacks)
 
 ### Rationale
 
