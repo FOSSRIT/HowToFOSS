@@ -90,11 +90,9 @@ There is no annual report. But there are expense reports found on their [documen
 
 > Does your subject organize or participate in any conferences? If so, list them here, and provide links to any relevant sessions, keynotes, or content.
 
-answer
+It does not as of May 2015.
 
 ## Community Architecture
-
-*Your subject likely runs or contributes to one or more Open Source products or projects. Choose one (or more) of these and answer the following questions (provide links is applicable).*
 
 > The project's IRC Channel
 
