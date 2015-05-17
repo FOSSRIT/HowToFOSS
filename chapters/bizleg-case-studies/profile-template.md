@@ -69,9 +69,7 @@ answer
 
 answer
 
-> Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, 
-Year in 
-Review, etc...)
+> Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
 
 answer
 
