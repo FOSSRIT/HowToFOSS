@@ -5,3 +5,4 @@
 * [IndieGoGo](IndieGoGo.md)
 * [Coinbase](coinbase.md)
 * [Flattr](Flattr.md)
+* [Gratipay](gratipay.md)

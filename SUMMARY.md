@@ -41,6 +41,7 @@
       * [IndieGoGo](chapters/bizleg-case-studies/crowdfunding/IndieGoGo.md)
       * [Coinbase](chapters/bizleg-case-studies/crowdfunding/coinbase.md)
       * [Flattr](chapters/bizleg-case-studies/crowdfunding/Flattr.md)
+      * [Gratipay](chapters/bizleg-case-studies/crowdfunding/gratipay.md)
    * [Civic Hacking/Dark Arts](chapters/bizleg-case-studies/light-side-dark-side/index.md)
       * [Sugar / OLPC](chapters/bizleg-case-studies/light-side-dark-side/SugarOLPC.md)
       * [18f](chapters/bizleg-case-studies/light-side-dark-side/18f.md)
