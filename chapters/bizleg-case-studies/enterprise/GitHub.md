@@ -17,40 +17,69 @@ GitHub is used by an enormous variety of hackers, including us, so we wanted to 
 
 ## Organizational Details
 
-- Is the subject of your profile a corporate entity?
-	Yes
-- What type?
-	GitHub is a Corporation Registered in the State of Delaware
-- When was it founded?
-	GitHub was founded, April 10th, 2008
-- By whom?
-    * Tom Preston-Werner
-    * Chris Wanstrath
-    * PJ Hyett
-- Original founder(s) still active?
-	All of the original founders are still active with the exception of Tom Preston-Werner.
-    He left GitHub in 2014 after confirmed [harassment allegations]
-- Publicly Traded? Since when? Initial Stock Price? Current stock price?
-	GitHub is a private corporation and isn't publically traded
-- Has the company made any acquisitions? If yes, which companies, and what were their core products?
-	GitHub has acquired the following companies:
-     * Easel - In Browser Web Design Tool Built for Collaboration
-     * Ordered List - Gauges, Speaker Deck, Harmony
-- Has the company made any investments in other companies? If yes, which ones?
-	GitHub hasn't invested in any other companies
-	Interestingly enough the first investment in GitHub was for [$100M]
-- Number of employees?
-	GitHub has 267 employees, some of which work at their HQ:
-- Where is HQ?
-    88 Colin P Kelly Jr St (at Brannan St), San Francisco, CA 94107, United States
-- Does it have any other offices or locations?
-	GitHub doesn't have any other locations
-- Website?
-	[http://github.com](http://github.com)
-- Wikipedia?
-	[http://en.wikipedia.org/wiki/GitHub](http://en.wikipedia.org/wiki/GitHub)
-- Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
-	GitHub does not have any annual reports
+>	Is the subject of your profile a corporate entity?
+
+Yes
+
+>	What type?
+
+GitHub is a Corporation Registered in the State of Delaware
+
+>	When was it founded?
+
+GitHub was founded, April 10th, 2008
+
+>	By whom?
+
+-	Tom Preston-Werner
+-	Chris Wanstrath
+-	PJ Hyett
+
+>	Original founder(s) still active?
+
+All of the original founders are still active with the exception of Tom Preston-Werner.
+
+He left GitHub in 2014 after confirmed [harassment allegations][]
+
+>	Publicly Traded? Since when? Initial Stock Price? Current stock price?
+
+GitHub is a private corporation and isn't publically traded
+
+>	Has the company made any acquisitions? If yes, which companies, and what were their core products?
+
+GitHub has acquired the following companies:
+
+-	Easel - In Browser Web Design Tool Built for Collaboration
+-	Ordered List - Gauges, Speaker Deck, Harmony
+
+>	Has the company made any investments in other companies? If yes, which ones?
+
+GitHub hasn't invested in any other companies
+Interestingly enough the first investment in GitHub was for [$100M][]
+
+>	Number of employees?
+
+GitHub has 267 employees, some of which work at their HQ.
+
+>	Where is HQ?
+
+88 Colin P Kelly Jr St (at Brannan St), San Francisco, CA 94107, United States
+
+>Does it have any other offices or locations?
+
+GitHub doesn't have any other locations
+
+>	Website?
+
+[http://github.com](http://github.com)
+
+>	Wikipedia?
+
+[http://en.wikipedia.org/wiki/GitHub](http://en.wikipedia.org/wiki/GitHub)
+
+>	Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
+
+GitHub does not have any annual reports
 
 [harassment allegations]: http://bits.blogs.nytimes.com/2014/04/21/github-founder-resigns-after-investigation/
 [$100M]: http://go.bloomberg.com/tech-deals/2012-07-09-github-takes-100m-in-largest-investment-by-andreessen-horowitz/
@@ -59,17 +88,19 @@ GitHub is used by an enormous variety of hackers, including us, so we wanted to 
 
 ### Social media for GitHub
 
-- Does your subject participate in social media? If yes, please list a URL for each account, and reach within that community.
-	- [@github](https://twitter.com/github)
-	- [@githubstatus](https://twitter.com/githubstatus) (Downtime reporting)
-	- [LinkedIn](https://www.linkedin.com/company/github)
+>	Does your subject participate in social media? If yes, please list a URL for each account, and reach within that community.
+
+- [@github](https://twitter.com/github)
+- [@githubstatus](https://twitter.com/githubstatus) (Downtime reporting)
+- [LinkedIn](https://www.linkedin.com/company/github)
 
 ### Communications channels for GitHub
 
-- What communication channels does your subject use to reach their public?
-	- GitHub’s [press page][] lists all of their awards that they have received.
-	- GitHub also has a [blog][] that has lots of interesting posts.
-	- They also include a [Glossary][] so writers can better report about what the company does.
+>	What communication channels does your subject use to reach their public?
+
+- GitHub’s [press page][] lists all of their awards that they have received.
+- GitHub also has a [blog][] that has lots of interesting posts.
+- They also include a [Glossary][] so writers can better report about what the company does.
 
 [press page]: https://github.com/about/press
 [blog]: https://github.com/blog
@@ -77,10 +108,11 @@ GitHub is used by an enormous variety of hackers, including us, so we wanted to 
 
 ### GitHub Conference Participation
 
-- Does your subject organize or participate in any conferences?
-	- GitHub hosts "[GitHub Universe][]" which is their own conference about working on open source projects as well as gathering tons of people working in open source.
-	- GitHub also hosts "[CodeConf][]" a two day conference about open source, best practices, documentation, and collaboration.
-	- GitHub also attends several other conferences including [GDC][].
+>	Does your subject organize or participate in any conferences?
+
+- GitHub hosts "[GitHub Universe][]" which is their own conference about working on open source projects as well as gathering tons of people working in open source.
+- GitHub also hosts "[CodeConf][]" a two day conference about open source, best practices, documentation, and collaboration.
+- GitHub also attends several other conferences including [GDC][].
 
 [GitHub Universe]: http://githubuniverse.com
 [CodeConf]: http://codeconf.com
