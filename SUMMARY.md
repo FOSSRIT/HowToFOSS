@@ -47,3 +47,4 @@
       * [18f](chapters/bizleg-case-studies/light-side-dark-side/18f.md)
       * [OWASP](chapters/bizleg-case-studies/light-side-dark-side/OWASP.md)
       * [Tor](chapters/bizleg-case-studies/light-side-dark-side/tor.md)
+      * [Ushahidi](chapters/bizleg-case-studies/light-side-dark-side/ushahidi.md)
