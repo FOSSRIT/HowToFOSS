@@ -5,3 +5,4 @@
 * [IndieGoGo](IndieGoGo.md)
 * [Flattr](Flattr.md)
 * [Gratipay](gratipay.md)
+* [Kickstarter](kickstarter.md)
