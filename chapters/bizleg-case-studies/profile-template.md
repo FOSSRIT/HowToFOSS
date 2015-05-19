@@ -86,6 +86,8 @@ answer
 
 > What communication channels does your subject use to reach their public? Briefly describe and include a URL for each.
 
+answer
+
 ### %COMPANY% Conference Participation
 
 > Does your subject organize or participate in any conferences? If so, list them here, and provide links to any relevant sessions, keynotes, or content.
