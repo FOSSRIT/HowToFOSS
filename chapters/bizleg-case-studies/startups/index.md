@@ -4,3 +4,6 @@
 * [Ouya](ouya.md)
 * [BeagleBoard Organization](BeagleBoard.md)
 * [Coinbase](coinbase.md)
+* [Arduino](Arduino.md)
+* [Lantern](Lantern.md)
+* [Raspberry Pi](raspberrypi.md)

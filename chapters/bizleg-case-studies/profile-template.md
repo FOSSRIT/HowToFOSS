@@ -69,9 +69,7 @@ answer
 
 answer
 
-> Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, 
-Year in 
-Review, etc...)
+> Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
 
 answer
 
@@ -87,6 +85,8 @@ answer
 ### Communications channels for %COMPANY%
 
 > What communication channels does your subject use to reach their public? Briefly describe and include a URL for each.
+
+answer
 
 ### %COMPANY% Conference Participation
 
