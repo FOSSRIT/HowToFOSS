@@ -95,7 +95,7 @@ They are private and don’t publish their annual reports
 - [Twitter](https://twitter.com/patreon) -  28.7k Followers
 - [Facebook](https://www.facebook.com/patreon) - 45031 likes
 - [Instagram](https://instagram.com/patreon/) - 1140 Followers
-- [Patreon on Patreon}](https://www.patreon.com/Patreon?ty=c) - 150 Patrons
+- [Patreon on Patreon](https://www.patreon.com/Patreon?ty=c) - 150 Patrons
 - [Patreon press](https://www.patreon.com/press)
 
 ### Communications channels for Patreon
