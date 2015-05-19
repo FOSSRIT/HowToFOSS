@@ -67,11 +67,11 @@ Yes it has offices in London, Boston, Taipei, Montreal, Shanghai, São Paulo and
 
 > Website?
 
-[Canonical.com] (http://www.canonical.com/)
+[Canonical.com](http://www.canonical.com/)
 
 > Wikipedia?
 
-[Canonical on Wikipedia] (http://en.wikipedia.org/wiki/Canonical_%28company%29)
+[Canonical on Wikipedia](http://en.wikipedia.org/wiki/Canonical_%28company%29)
 
 > Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
 
@@ -83,9 +83,9 @@ Here is the Annual Report for [2013](http://www.scribd.com/doc/199373896/Canonic
 
 > Does your subject participate in social media? If yes, please list a URL for each account, and reach within that community.
 
-- [@Canonical] ( https://twitter.com/Canonical) - 841 Tweets, 564 Following, 32,000 Followers
-- [Google+] (https://plus.google.com/116469902245452284818/posts) - 6475 followers, 125,973 page visits
-- [Facebook] (https://www.facebook.com/pages/Canonical/125818784107695?fref=ts) - 5086 Likes
+- [@Canonical](https://twitter.com/Canonical) - 841 Tweets, 564 Following, 32,000 Followers
+- [Google+](https://plus.google.com/116469902245452284818/posts) - 6475 followers, 125,973 page visits
+- [Facebook](https://www.facebook.com/pages/Canonical/125818784107695?fref=ts) - 5086 Likes
 
 ### Communications channels for Canonical / Ubuntu
 
@@ -97,7 +97,7 @@ Canonical keeps mostly to the social media listed above for anything not work re
 
 > Does your subject organize or participate in any conferences? If so, list them here, and provide links to any relevant sessions, keynotes, or content.
 
-Ubuntu participates in several conferences. A list can be found [here] (https://wiki.ubuntu.com/ConferenceAppearances).
+Ubuntu participates in several conferences. A list can be found [here](https://wiki.ubuntu.com/ConferenceAppearances).
 
 ## Community Architecture
 
@@ -105,15 +105,15 @@ Ubuntu participates in several conferences. A list can be found [here] (https://
 
 > The project's IRC Channel
 
-[The project's IRC Channels] (http://webchat.freenode.net/?channels=ubuntu)
+[The project's IRC Channels](http://webchat.freenode.net/?channels=ubuntu)
 
 > Source Code repository
 
-[Source Code repository] (http://archive.ubuntu.com/ubuntu/)
+[Source Code repository](http://archive.ubuntu.com/ubuntu/)
 
 > Mail list archive
 
-[Mail list archive] (https://lists.ubuntu.com/)
+[Mail list archive](https://lists.ubuntu.com/)
 
 > Documentation
 
@@ -125,7 +125,7 @@ N/A
 
 > Project Website and/or Blog
 
-[Project Website] (http://www.ubuntu.com/)
+[Project Website](http://www.ubuntu.com/)
 
 > Describe the software project, its purpose and goals.
 
@@ -133,11 +133,11 @@ Ubuntu comes from the African word Ubuntu meaning 'humanity to others'. Ubuntu w
 
 > Give brief history of the project. When was the Initial Commit? The latest commit?
 
-The project started before the initial release on 20 October 2004, The Warty Warthog Release. Ubuntu's latest release was on April 23, 2015, The [Vivid Vervet] (http://releases.ubuntu.com/15.04/) Release.
+The project started before the initial release on 20 October 2004, The Warty Warthog Release. Ubuntu's latest release was on April 23, 2015, The [Vivid Vervet](http://releases.ubuntu.com/15.04/) Release.
 
 > Who approves patches? How many people?
 
-[List] (https://launchpad.net/~techboard/+members) - As far as we can tell, these seven. 
+[List](https://launchpad.net/~techboard/+members) - As far as we can tell, these seven. 
 
 > Who has commit access, or has had patches accepted?  How many total?
 
@@ -145,7 +145,7 @@ While the number is undoubtedly large, Ubuntu doesn’t have the information rea
 
 > Has there been any turnover in the Core Team? (i.e. has the top 20% of contributors stayed the same over time? If not, how has it changed?)
 
-It doesn’t look like the team has changed all that much, at least according to [this] (https://launchpad.net/~techboard/+members).
+It doesn’t look like the team has changed all that much, at least according to [this](https://launchpad.net/~techboard/+members).
 
 > Does the project have a BDFL, or Lead Developer? (BDFL == Benevolent Dictator for Life)
 
@@ -173,7 +173,7 @@ See the above answer.
 
 > Does the project have an official "on-boarding" process in place?  (new contributor guides, quickstarts, communication leads who focus specifically on newbies, etc...)
 
-[ContributeToUbuntu] (https://wiki.ubuntu.com/ContributeToUbuntu)  
+[ContributeToUbuntu](https://wiki.ubuntu.com/ContributeToUbuntu)  
 
 > Does the project have Documentation available? Is it extensive?  Does it include code examples?
 
@@ -195,7 +195,7 @@ Yes, the project is organized and has a good structure to it. It is also very po
 
 *Section adapted from [EFF Worksheet](http://www.teachingcopyright.org/handout/technology-history-worksheet)*
 
-For this section we will take a look at one of Canonical's products used to maintain servers: [Landscape] (https://landscape.canonical.com/).
+For this section we will take a look at one of Canonical's products used to maintain servers: [Landscape](https://landscape.canonical.com/).
 
 > Who invented, created, or sponsored the technology?
 
@@ -229,8 +229,8 @@ Canonical makes its revenue through donations and services.
 
 > Which specific Open Source Revenue Models are utilized?
 
-- [Voluntary donations] (http://en.wikipedia.org/wiki/Business_models_for_open-source_software#Voluntary_donations)
-- [Selling professional services] (http://en.wikipedia.org/wiki/Business_models_for_open-source_software#Selling_professional_services)
+- [Voluntary donations](http://en.wikipedia.org/wiki/Business_models_for_open-source_software#Voluntary_donations)
+- [Selling professional services](http://en.wikipedia.org/wiki/Business_models_for_open-source_software#Selling_professional_services)
 
 > What investments/acquisitions has the organization made?
 
