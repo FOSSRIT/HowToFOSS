@@ -68,7 +68,7 @@ N/A
 
 > Wikipedia?
 
-[Wikipedia: Lantern (software)] (http://en.wikipedia.org/wiki/Lantern_(software)
+[Wikipedia: Lantern (software)] (http://en.wikipedia.org/wiki/Lantern_(software))
 
 > Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
 
@@ -129,7 +129,7 @@ N/A
 > Describe the software project, its purpose and goals.
 
 Lantern is built by the Brave New Software Project, Inc, a registered 501c3 non-profit dedicated to using software to tackle tough global challenges. 
-Brave New Software’s founder and Lantern lead developer, Adam Fisk, was formerly a lead developer of the peer-to-peer file sharing services LimeWire 
+Brave New Softwareâ€™s founder and Lantern lead developer, Adam Fisk, was formerly a lead developer of the peer-to-peer file sharing services LimeWire 
 and LittleShoot. While working on these P2P architectures, Adam realized they could be useful in providing unfiltered internet access.
 
 > Give brief history of the project. When was the Initial Commit? The latest commit?
@@ -159,7 +159,7 @@ According to the commit history, it seems like the answer is yes, as there are s
 
 > What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?
 
-[Issue Tracker] (https://github.com/getlantern/lantern/issues). Of note is an issue with Reset not working properly and messsing with people’s ability to
+[Issue Tracker] (https://github.com/getlantern/lantern/issues). Of note is an issue with Reset not working properly and messsing with peopleâ€™s ability to
 work the software: [Issue 1841] (https://github.com/getlantern/lantern/issues/1841).
 
 > How is the project's participation trending and why?
@@ -194,7 +194,7 @@ The entire project is run by the BDFL Adam Fisk.
 
 > Is this the kind of structure you would enjoy working in? Why, or why not?
 
-Hard to say, as it really doesn’t have a formal structure outside of “There is this thing to work on, someone should work on it”.
+Hard to say, as it really doesnâ€™t have a formal structure outside of â€œThere is this thing to work on, someone should work on itâ€.
 
 
 ## Technology/Product
