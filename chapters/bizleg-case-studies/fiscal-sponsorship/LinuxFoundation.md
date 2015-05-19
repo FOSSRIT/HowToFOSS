@@ -18,43 +18,69 @@ We wanted to cover the Linux Foundation due to all of us having extensive knowle
 
 ## Organizational Details
 
-- Is the subject of your profile a corporate entity?
-	Yes
-- What type?
-	Oregon-based nonprofit mutual benefit corporation
-- When was it founded?
-	Founded 2000, Incorporated August 9th, 2007
-- By whom?
-	Info on founders is ***very*** hard to find
-- Publicly traded?
-	Private company
-- Has the company made any acquisitions? If yes, which companies, and what were their core products?
-	No acquisitions
-- Has the company made any investments in other companies? If yes, which ones?
-	**"No investments"**
-- Number of employees?
-	21 Leaders
-- Where is HQ?
-	HQ in San Francisco
-- Does it have any other offices or locations?
-	Also offices in Japan and Korea
-- Website?
-	[linuxfoundation.org](http://linuxfoundation.org)
-- Wikipedia?
-	[Linux Foundation (wikipedia)](http://en.wikipedia.org/wiki/Linux_Foundation)
-- Does your organization file any annual reports?
-	Yearly [Linux Job Reports](http://www.linuxfoundation.org/publications/linux-foundation)
+>	Is the subject of your profile a corporate entity?
+
+Yes
+
+>	What type?
+
+Oregon-based nonprofit mutual benefit corporation
+
+>	When was it founded?
+
+Founded 2000, Incorporated August 9th, 2007
+
+>	By whom?
+
+Info on founders is ***very*** hard to find
+
+>	Publicly traded?
+
+Private company
+
+>	Has the company made any acquisitions? If yes, which companies, and what were their core products?
+
+No acquisitions
+
+>	Has the company made any investments in other companies? If yes, which ones?
+
+**"No investments"**
+
+>	Number of employees?
+
+21 Leaders
+
+>	Where is HQ?
+
+HQ in San Francisco
+
+>	Does it have any other offices or locations?
+
+Also offices in Japan and Korea
+
+>	Website?
+
+[linuxfoundation.org](http://linuxfoundation.org)
+
+>	Wikipedia?
+
+[Linux Foundation (wikipedia)](http://en.wikipedia.org/wiki/Linux_Foundation)
+
+>	Does your organization file any annual reports?
+
+Yearly [Linux Job Reports](http://www.linuxfoundation.org/publications/linux-foundation)
 
 
 ## Communications
 
 ### Social media
 
-- Does your subject participate in social media? If yes, please list a URL for each account, and reach within that community.
-	- [Twitter](https://twitter.com/linuxfoundation): 167K Followers
-	- [Google+](https://plus.google.com/+LinuxfoundationOrg/posts): 30K Followers
-	- [Facebook](https://www.facebook.com/TheLinuxFoundation): 340K Likes
-	- [Youtube](https://www.youtube.com/user/TheLinuxFoundation): 43K Subscribers
+>	Does your subject participate in social media? If yes, please list a URL for each account, and reach within that community.
+
+- [Twitter](https://twitter.com/linuxfoundation): 167K Followers
+- [Google+](https://plus.google.com/+LinuxfoundationOrg/posts): 30K Followers
+- [Facebook](https://www.facebook.com/TheLinuxFoundation): 340K Likes
+- [Youtube](https://www.youtube.com/user/TheLinuxFoundation): 43K Subscribers
 
 
 ### Communications channels
