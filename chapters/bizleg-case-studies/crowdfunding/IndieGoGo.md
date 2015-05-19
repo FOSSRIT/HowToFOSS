@@ -67,11 +67,11 @@ No other addresses
 
 > Website?
 
-[Indiegogo.com] (https://www.indiegogo.com/)
+[Indiegogo.com](https://www.indiegogo.com/)
 
 > Wikipedia?
 
-[Wikipedia: Indiegogo] (http://en.wikipedia.org/wiki/Indiegogo)
+[Wikipedia: Indiegogo](http://en.wikipedia.org/wiki/Indiegogo)
 
 > Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
 
@@ -84,29 +84,29 @@ No annual reports that we could find.
 
 > Does your subject participate in social media? If yes, please list a URL for each account, and reach within that community.
 
-- [Facebook] (https://www.facebook.com/Indiegogo) - 321,668 likes.
-- [Twitter] (https://twitter.com/Indiegogo) - 218k followers, 18.6k tweets.
-- [Google+] (https://plus.google.com/+indiegogo) - 291k followers, 3.185 million views
-- [Instagram] (https://instagram.com/indiegogo/) - 261 posts, 5,982 followers
-- [Linkedin] (https://www.linkedin.com/company/indiegogo) - 6,710 followers
+- [Facebook](https://www.facebook.com/Indiegogo) - 321,668 likes.
+- [Twitter](https://twitter.com/Indiegogo) - 218k followers, 18.6k tweets.
+- [Google+](https://plus.google.com/+indiegogo) - 291k followers, 3.185 million views
+- [Instagram](https://instagram.com/indiegogo/) - 261 posts, 5,982 followers
+- [Linkedin](https://www.linkedin.com/company/indiegogo) - 6,710 followers
 
 ### Communications channels for IndieGoGo
 
 > What communication channels does your subject use to reach their public? Briefly describe and include a URL for each.
 
-IndieGoGo has a [Blog](http://go.indiegogo.com/blog) that contains up to date posts about IndieGoGo news. Their [Facebook] (https://www.facebook.com/Indiegogo) and [Twitter] (https://twitter.com/Indiegogo) pages are also used to help promote some of the various projects that get put up using their service.
+IndieGoGo has a [Blog](http://go.indiegogo.com/blog) that contains up to date posts about IndieGoGo news. Their [Facebook](https://www.facebook.com/Indiegogo) and [Twitter](https://twitter.com/Indiegogo) pages are also used to help promote some of the various projects that get put up using their service.
 
 ### IndieGoGo Conference Participation
 
 > Does your subject organize or participate in any conferences? If so, list them here, and provide links to any relevant sessions, keynotes, or content.
 
-[Connected Conference] (http://connectedconference.co/) - IndieGoGo will be attending to host a crowdfunding competition.
+[Connected Conference](http://connectedconference.co/) - IndieGoGo will be attending to host a crowdfunding competition.
 
 ## Community Architecture
 
 *Your subject likely runs or contributes to one or more Open Source products or projects. Choose one (or more) of these and answer the following questions (provide links is applicable).*
 
-IndieGoGo does not have a single repository, but rather has helped several different open source projects fund themselves. The one we will look at is [PDFy] (https://github.com/joepie91/pdfy), a PDF hosting service.
+IndieGoGo does not have a single repository, but rather has helped several different open source projects fund themselves. The one we will look at is [PDFy](https://github.com/joepie91/pdfy), a PDF hosting service.
 
 > The project's IRC Channel
 
@@ -114,7 +114,7 @@ N/A
 
 > Source Code repository
 
-[GitHub Repo] (https://github.com/joepie91/pdfy)
+[GitHub Repo](https://github.com/joepie91/pdfy)
 
 > Mail list archive
 
@@ -130,7 +130,7 @@ N/A
 
 > Project Website and/or Blog
 
-[pdf.yt] (https://pdf.yt/)
+[pdf.yt](https://pdf.yt/)
 
 > Describe the software project, its purpose and goals.
 
@@ -142,7 +142,7 @@ Initial commit was on April 26, 2014. The latest commit was on August 5, 2014.
 
 > Who approves patches? How many people?
 
-Just our BDFL [joepie91] (https://github.com/joepie91/).
+Just our BDFL [joepie91](https://github.com/joepie91/).
 
 > Who has commit access, or has had patches accepted?  How many total?
 
@@ -162,11 +162,11 @@ Yes, there is only 1 developer.
 
 > What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?
 
-The BDFL controls bug control and repair. There have been no major issues so far. Issue tracker can be viewed [here] (https://github.com/joepie91/pdfy/issues).
+The BDFL controls bug control and repair. There have been no major issues so far. Issue tracker can be viewed [here](https://github.com/joepie91/pdfy/issues).
 
 > How is the project's participation trending and why?
 
-Throughout the project's history, it has been actively developed by the BDFL with no real breaks. However development has stopped on August 5, 2014 and has not picked up since. Development seems to have switched over to [pdfy2] (https://github.com/joepie91/pdfy2), a node.js port of pdfy.
+Throughout the project's history, it has been actively developed by the BDFL with no real breaks. However development has stopped on August 5, 2014 and has not picked up since. Development seems to have switched over to [pdfy2](https://github.com/joepie91/pdfy2), a node.js port of pdfy.
 
 > In your opinion, does the project pass "The Raptor Test?" (i.e. Would the project survive if the BDFL, or most active contributor were eaten by a Velociraptor?) Why or why not?
 
@@ -203,7 +203,7 @@ Since the project is run by a single individual and is apparently dead, I would 
 
 > Who invented, created, or sponsored the technology?
 
-The idea of [Crowdfunding] (http://en.wikipedia.org/wiki/Crowdfunding) was conceived before the internet. There are several examples in history where funds were raised by a large crowd of donors. The term 'crowdfunding' was introduced in 2006, and crowdfunding websites appeared as early as 2003 after the launch of [ArtistShare] (http://en.wikipedia.org/wiki/ArtistShare).
+The idea of [Crowdfunding](http://en.wikipedia.org/wiki/Crowdfunding) was conceived before the internet. There are several examples in history where funds were raised by a large crowd of donors. The term 'crowdfunding' was introduced in 2006, and crowdfunding websites appeared as early as 2003 after the launch of [ArtistShare](http://en.wikipedia.org/wiki/ArtistShare).
 
 > What is the technology designed to do? How is it used?
 
@@ -230,11 +230,11 @@ The company has raised revenue from some financing rounds. The earliest one was 
 
 > How does this organization make revenue?
 
-IndieGoGo charges 9% on the funds you raise. If you meet your goal, you get 5% of them back. More information can be found at their [Fees & Pricing] (https://support.indiegogo.com/hc/en-us/articles/204456408-Fees-Pricing) page.
+IndieGoGo charges 9% on the funds you raise. If you meet your goal, you get 5% of them back. More information can be found at their [Fees & Pricing](https://support.indiegogo.com/hc/en-us/articles/204456408-Fees-Pricing) page.
 
 > Which specific Open Source Revenue Models are utilized?
 
-[Pre-order/crowdfunding/reverse-bounty model] (http://en.wikipedia.org/wiki/Business_models_for_open-source_software#Pre-order.2Fcrowdfunding.2Freverse-bounty_model)
+[Pre-order/crowdfunding/reverse-bounty model](http://en.wikipedia.org/wiki/Business_models_for_open-source_software#Pre-order.2Fcrowdfunding.2Freverse-bounty_model)
 
 > What investments/acquisitions has the organization made?
 
