@@ -5,7 +5,6 @@ Profile: Raspberry Pi
 
 - [Chris Knepper](http://chrisknepper.com)
 - [Derin Yarsuvat](http://github.com/Berulacks)
-- [Katie Tigue](mailto:katie@mail.rit.edu)
 - [Joe Trotta](http://workcodeplay.com)
 
 ### Rationale
