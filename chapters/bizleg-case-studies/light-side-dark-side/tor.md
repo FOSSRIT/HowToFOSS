@@ -7,6 +7,7 @@ Profile: Tor
 - [Caleb Coffie](https://calebcoffie.com)
 - [Joseph Trotta](http://workcodeplay.com)
 - [Chris Knepper](https://chrisknepper.com/)
+- [Katie Tigue](mailto:katie@mail.rit.edu)
 - [Derin Yarsuvat](https://github.com/Berulacks)
 
 ### Rationale
