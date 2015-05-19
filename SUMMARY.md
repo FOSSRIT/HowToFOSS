@@ -36,6 +36,7 @@
       * [BeagleBoard Organization](chapters/bizleg-case-studies/startups/BeagleBoard.md)
       * [Coinbase](chapters/bizleg-case-studies/startups/coinbase.md)
       * [Arduino](chapters/bizleg-case-studies/startups/Arduino.md)
+      * [Lantern](chapters/bizleg-case-studies/startups/Lantern.md)
    * [Crowdfunding/Crowdfunded](chapters/bizleg-case-studies/crowdfunding/index.md)
       * [BountySource](chapters/bizleg-case-studies/crowdfunding/bountysource.md)
       * [Patreon](chapters/bizleg-case-studies/crowdfunding/patreon.md)
