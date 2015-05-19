@@ -116,7 +116,7 @@ https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation
 > The project's IRC Channel
 
 
-- #raspberrypi on freenode
+\#raspberrypi on freenode
 
 
 > Source Code repository
