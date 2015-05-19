@@ -5,3 +5,4 @@
 * [BeagleBoard Organization](BeagleBoard.md)
 * [Coinbase](coinbase.md)
 * [Arduino](Arduino.md)
+* [Lantern](Lantern.md)
