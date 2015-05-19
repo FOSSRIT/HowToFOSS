@@ -120,7 +120,7 @@ N/A
 
 > Other communication channels
 
-[team@getlantern.org](team@getlantern.org) (email not mailing list)
+[team@getlantern.org](mailto:team@getlantern.org) (email not mailing list)
 
 > Project Website and/or Blog
 
