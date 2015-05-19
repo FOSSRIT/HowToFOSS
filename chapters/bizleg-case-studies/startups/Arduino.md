@@ -97,7 +97,7 @@ Yes, they are all conveniently organized [here](http://ir.atmel.com/annuals.cfm)
 > What communication channels does your subject use to reach their public? Briefly describe and include a URL for each.
 
    - Since Atmel is a gigantic corporation, this doesn’t cleanly apply.
-   - They do have a blog: [http://blog.atmel.com/](http://blog.atmel.com/){target=_blank}
+   - They do have a blog: [http://blog.atmel.com/](http://blog.atmel.com/)
 
 ### Atmel / Arduino Conference Participation
 
@@ -116,15 +116,15 @@ Yes, they are all conveniently organized [here](http://ir.atmel.com/annuals.cfm)
 
 > Source Code repository
 
-https://github.com/arduino/Arduino](https://github.com/arduino/Arduino)
+[GitHub](https://github.com/arduino/Arduino)
 
 > Mail list archive
 
-[https://groups.google.com/a/arduino.cc/forum/?fromgroups#!forum/developers](https://groups.google.com/a/arduino.cc/forum/?fromgroups#!forum/developers)
+[Google Groups](https://groups.google.com/a/arduino.cc/forum/?fromgroups#!forum/developers)
 
 > Documentation
 
-[http://www.arduino.cc/en/Main/Documentation](http://www.arduino.cc/en/Main/Documentation)]
+[http://www.arduino.cc/en/Main/Documentation](http://www.arduino.cc/en/Main/Documentation)
 
 > Other communication channels
 
