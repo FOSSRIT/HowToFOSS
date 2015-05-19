@@ -64,11 +64,11 @@ N/A
 
 > Website?
 
-[getlantern.org] (https://getlantern.org/)
+[getlantern.org](https://getlantern.org/)
 
 > Wikipedia?
 
-[Wikipedia: Lantern (software)] (http://en.wikipedia.org/wiki/Lantern_(software))
+[Wikipedia: Lantern (software)](http://en.wikipedia.org/wiki/Lantern_(software))
 
 > Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
 
@@ -81,15 +81,15 @@ None that we could find.
 
 > Does your subject participate in social media? If yes, please list a URL for each account, and reach within that community.
 
-- [Twitter] (https://twitter.com/getlantern) 4077 followers. 793 tweets.
-- [Facebook] (https://www.facebook.com/getlantern) 6451 likes.
-- [Tumblr] (http://get-lantern.tumblr.com/)
+- [Twitter](https://twitter.com/getlantern) 4077 followers. 793 tweets.
+- [Facebook](https://www.facebook.com/getlantern) 6451 likes.
+- [Tumblr](http://get-lantern.tumblr.com/)
 
 ### Communications channels for Lantern
 
 > What communication channels does your subject use to reach their public? Briefly describe and include a URL for each.
 
-It honestly seems like most communication just happens on the repository issue tracker or through private emailing. There are also the [forums] (Forums - https://groups.google.com/forum/#!forum/lantern-users-en).
+It honestly seems like most communication just happens on the repository issue tracker or through private emailing. There are also the [forums](Forums - https://groups.google.com/forum/#!forum/lantern-users-en).
 
 
 ### Lantern Conference Participation
@@ -108,7 +108,7 @@ N/A
 
 > Source Code repository
 
-[Github] (https://github.com/getlantern/lantern)
+[Github](https://github.com/getlantern/lantern)
 
 > Mail list archive
 
@@ -116,15 +116,15 @@ N/A
 
 > Documentation
 
-[Documentation Wiki] (https://github.com/getlantern/lantern/wiki)
+[Documentation Wiki](https://github.com/getlantern/lantern/wiki)
 
 > Other communication channels
 
-[team@getlantern.org] (team@getlantern.org) (email not mailing list)
+[team@getlantern.org](mailto:team@getlantern.org) (email not mailing list)
 
 > Project Website and/or Blog
 
-[getlantern.org] (https://getlantern.org/)
+[getlantern.org](https://getlantern.org/)
 
 > Describe the software project, its purpose and goals.
 
@@ -159,8 +159,8 @@ According to the commit history, it seems like the answer is yes, as there are s
 
 > What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?
 
-[Issue Tracker] (https://github.com/getlantern/lantern/issues). Of note is an issue with Reset not working properly and messsing with people’s ability to
-work the software: [Issue 1841] (https://github.com/getlantern/lantern/issues/1841).
+[Issue Tracker](https://github.com/getlantern/lantern/issues). Of note is an issue with Reset not working properly and messsing with people’s ability to
+work the software: [Issue 1841](https://github.com/getlantern/lantern/issues/1841).
 
 > How is the project's participation trending and why?
 
@@ -178,7 +178,7 @@ Probably not. If the two main contributors were removed then the project would f
 
 > Does the project have an official "on-boarding" process in place?  (new contributor guides, quickstarts, communication leads who focus specifically on newbies, etc...)
 
-The [wiki] (https://github.com/getlantern/lantern/wiki) has links to a [Get Involved page] (https://github.com/getlantern/lantern/wiki/Get-Involved) and other various links that will help people start contributing towards the project.
+The [wiki](https://github.com/getlantern/lantern/wiki) has links to a [Get Involved page](https://github.com/getlantern/lantern/wiki/Get-Involved) and other various links that will help people start contributing towards the project.
 
 > Does the project have Documentation available? Is it extensive?  Does it include code examples?
 
@@ -229,12 +229,12 @@ There is no information as to how the project was originally funded.
 
 > How does this organization make revenue?
 
-Lantern is currently making revenue via donations through their [Indiegogo campaign] (https://www.indiegogo.com/projects/fund-internet-freedom-with-lantern/x/204580).
+Lantern is currently making revenue via donations through their [Indiegogo campaign](https://www.indiegogo.com/projects/fund-internet-freedom-with-lantern/x/204580).
 
 > Which specific Open Source Revenue Models are utilized?
 
-- [Donations] (http://en.wikipedia.org/wiki/Business_models_for_open-source_software#Voluntary_donations)
-- [Crowdfunding] (http://en.wikipedia.org/wiki/Business_models_for_open-source_software#Pre-order.2Fcrowdfunding.2Freverse-bounty_model)
+- [Donations](http://en.wikipedia.org/wiki/Business_models_for_open-source_software#Voluntary_donations)
+- [Crowdfunding](http://en.wikipedia.org/wiki/Business_models_for_open-source_software#Pre-order.2Fcrowdfunding.2Freverse-bounty_model)
 
 > What investments/acquisitions has the organization made?
 
