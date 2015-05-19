@@ -50,12 +50,12 @@ No, because Software in the Public interest itself doesn’t have any products, 
 
 Yes, organized donations and investments is in part the organization’s role. Associated projects include, but are not limited to:
 
-- [0 A.D.](https://en.wikipedia.org/wiki/0_A.D._(video_game))
+- [0 A.D.][]
 - [Ankur](https://en.wikipedia.org/wiki/Ankur_Group)
 - [aptosid](https://en.wikipedia.org/wiki/Aptosid)
 - [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linux)
 - [Debian](https://en.wikipedia.org/wiki/Debian)
-- [Drizzle](https://en.wikipedia.org/wiki/Drizzle_(database_server))
+- [Drizzle][]
 - [Drupal](https://en.wikipedia.org/wiki/Drupal)
 - [FFmpeg](https://en.wikipedia.org/wiki/FFmpeg)
 - [Fluxbox](https://en.wikipedia.org/wiki/Fluxbox)
@@ -64,8 +64,8 @@ Yes, organized donations and investments is in part the organization’s role. A
 - [Gallery](https://en.wikipedia.org/wiki/Gallery_Project)
 - [GNUstep](https://en.wikipedia.org/wiki/GNUstep)
 - [GNU TeXmacs](https://en.wikipedia.org/wiki/GNU_TeXmacs)
-- [Haskell.org](https://en.wikipedia.org/wiki/Haskell_(programming_language))
-- [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software))
+- [Haskell.org][]
+- [Jenkins][]
 - [LibreOffice](https://en.wikipedia.org/wiki/LibreOffice)
 - [MinGW](https://en.wikipedia.org/wiki/MinGW)
 - [OFTC](https://en.wikipedia.org/wiki/Open_and_Free_Technology_Community)
@@ -79,6 +79,12 @@ Yes, organized donations and investments is in part the organization’s role. A
 - [SproutCore](https://en.wikipedia.org/wiki/SproutCore)
 - [X.Org Foundation](https://en.wikipedia.org/wiki/X.Org_Foundation)
 - [YafaRay](https://en.wikipedia.org/wiki/YafaRay)
+
+[0 A.D.]:      https://en.wikipedia.org/wiki/0_A.D._(video_game)
+[Drizzle]:     https://en.wikipedia.org/wiki/Drizzle_(database_server)
+[Haskell.org]: https://en.wikipedia.org/wiki/Haskell_(programming_language)
+[Jenkins]:     https://en.wikipedia.org/wiki/Jenkins_(software)
+
 
 > Number of Employees?
 
