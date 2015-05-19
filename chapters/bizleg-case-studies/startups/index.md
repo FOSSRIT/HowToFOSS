@@ -6,3 +6,4 @@
 * [Coinbase](coinbase.md)
 * [Arduino](Arduino.md)
 * [Lantern](Lantern.md)
+* [Raspberry Pi](raspberrypi.md)
