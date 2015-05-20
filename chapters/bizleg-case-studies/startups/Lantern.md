@@ -164,7 +164,7 @@ work the software: [Issue 1841](https://github.com/getlantern/lantern/issues/184
 
 > How is the project's participation trending and why?
 
-[Github contributor graph] (https://github.com/getlantern/lantern/graphs/contributors). It seems to have gone down as time has went on,
+[Github contributor graph](https://github.com/getlantern/lantern/graphs/contributors). It seems to have gone down as time has went on,
 though that has probably more to do with having less and less project critical work to do. That said, there are still several open issues and
 development has seemed to recently picked up again after a long hault.
 
