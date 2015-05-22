@@ -7,6 +7,7 @@ Profile: Tor
 - [Caleb Coffie](https://calebcoffie.com)
 - [Joseph Trotta](http://workcodeplay.com)
 - [Chris Knepper](https://chrisknepper.com/)
+- [Katie Tigue](mailto:katie@mail.rit.edu)
 - [Derin Yarsuvat](https://github.com/Berulacks)
 
 ### Rationale
@@ -107,14 +108,14 @@ Tor has four channels on OFTC -- the following descriptions are taken directly
 from the
 [Tor Project website](https://www.torproject.org/about/contact.html.en):
 
-- #tor - User and relay operation discussions. Having trouble running Tor or a
+- \#tor - User and relay operation discussions. Having trouble running Tor or a
   question for other Tor users? Then this is the spot for you.
-- #tor-dev - Channel for people who want to do development. Discussions about
+- \#tor-dev - Channel for people who want to do development. Discussions about
   Tor-related coding, protocols, and project ideas are all welcome.
-- #tor-project - Organization discussions unrelated to software development. A
+- \#tor-project - Organization discussions unrelated to software development. A
   great place to discuss Tor community events, outreach, translation, or
   website improvements.
-- #nottor - This is where Tor people hang out to talk about stuff that is not
+- \#nottor - This is where Tor people hang out to talk about stuff that is not
   related to Tor.
 
 Tor also has three mailing lists:
