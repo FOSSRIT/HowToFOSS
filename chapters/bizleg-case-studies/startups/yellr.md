@@ -186,7 +186,7 @@ Yellr will be priced on a tiered pricing system:
 
 Yellr is currently partnered with WXXI, an NPR affiliate which has done the majority of the promotion so far for the app. We are also reaching out to local journalism programs at RIT to test the deployment of the app as a hyper-local reporting methodology. Once these programs are finished we will review and perform a post-mortem. The post-mortem will focus on the reports of journalism students who used the app to gather sourcing and media content from communities.
 
-## Positioning/Place:
+## Positioning/Place
 
 *Where will our app be sold?*
 
