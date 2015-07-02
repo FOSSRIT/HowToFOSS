@@ -2,8 +2,8 @@
 
 #### [Homepage](http://magic.rit.edu/foss/)
 
-<img width="30%" src="https://github.com/FOSSRIT/foss.rit.edu/blob/master/brand/fossboxlogo%28official%29.png"/>
-<!--![fosslogo](https://github.com/FOSSRIT/foss.rit.edu/blob/master/brand/fossboxlogo%28official%29.png)-->
+<img width="30%" src="https://raw.githubusercontent.com/FOSSRIT/foss.rit.edu/master/brand/fossboxlogo%28official%29.png"/>
+<!--![fosslogo](https://raw.githubusercontent.com/FOSSRIT/foss.rit.edu/master/brand/fossboxlogo%28official%29.png)-->
 
 > FOSS @ MAGIC is an initiative to promote Free/Open Source Software related
 activities that:
