@@ -68,7 +68,7 @@ N/A
 
 > Wikipedia?
 
-[Wikipedia: Lantern (software)](http://en.wikipedia.org/wiki/Lantern_(software))
+<a href="http://en.wikipedia.org/wiki/Lantern_(software)">Wikipedia: Lantern (software)</a>
 
 > Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
 
