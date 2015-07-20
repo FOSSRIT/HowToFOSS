@@ -14,6 +14,7 @@
    * [Research Computing](chapters/ecosystems/ritrc.md)
    * [codeRIT](chapters/ecosystems/coderit.md)
    * [WiC](chapters/ecosystems/ritwic.md)
+   * [CSC](chapters/ecosystems/ritcsc.md)
 * [Business and Legal Profiles](chapters/bizleg-case-studies/index.md)
    * [Enterprise](chapters/bizleg-case-studies/enterprise/index.md)
       * [Acquia / Drupal](chapters/bizleg-case-studies/enterprise/AcquiaDrupal.md)
