@@ -4,3 +4,4 @@
 * [Research Computing](ritrc.md)
 * [codeRIT](coderit.md)
 * [WiC](ritwic.md)
+* [CSC](ritcsc.md)
