@@ -28,6 +28,8 @@ try git.
 
 1. [Digital Ocean: Intro to Git](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
 2. [Official Git Tutorial](http://git-scm.com/docs/gittutorial)
+3. [Udemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 # Sources
+
 [1] [StackExchange Programmers](http://programmers.stackexchange.com/a/150791)
