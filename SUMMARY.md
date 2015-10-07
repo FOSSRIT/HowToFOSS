@@ -38,6 +38,7 @@
       * [Arduino](chapters/bizleg-case-studies/startups/Arduino.md)
       * [Lantern](chapters/bizleg-case-studies/startups/Lantern.md)
       * [Raspberry Pi](chapters/bizleg-case-studies/startups/raspberrypi.md)
+      * [Yellr](chapters/bizleg-case-studies/startups/yellr.md)
    * [Crowdfunding/Crowdfunded](chapters/bizleg-case-studies/crowdfunding/index.md)
       * [BountySource](chapters/bizleg-case-studies/crowdfunding/bountysource.md)
       * [Patreon](chapters/bizleg-case-studies/crowdfunding/patreon.md)

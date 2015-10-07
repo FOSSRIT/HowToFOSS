@@ -22,6 +22,7 @@
    * [Coinbase](startups/coinbase.md)
    * [Arduino](startups/Arduino.md)
    * [Lantern](startups/Lantern.md)
+   * [Yellr](startups/yellr.md)
    * [Raspberry Pi](startups/raspberrypi.md)
 * [Crowdfunding/Crowdfunded](crowdfunding/index.md)
    * [BountySource](crowdfunding/bountysource.md)
