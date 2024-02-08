@@ -1,0 +1,14 @@
+[book]
+title = "How To FOSS"
+authors = ["Daniel Jost", "Colden Cullen"]
+description = "This book was compiled during an Independent Study course at Rochester Institute of Technology, in conjunction with the MAGIC Center. In it, you will find a collection of information that explain how to get started in the free and open source community."
+
+[build]
+build-dir = "_book"
+create-missing = false
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/FOSSRIT/HowToFOSS"
+git-repository-icon = "fa-github"
