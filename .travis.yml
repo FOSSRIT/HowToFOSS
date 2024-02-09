@@ -1,16 +1,16 @@
-language: node_js
-node:
-- '0.10'
+language: rust
+rust:
+- stable
 install:
-- npm install -g gitbook-cli
+- cargo install mdbook
 script:
-- gitbook build
+- mdbook build
 after_success:
 - git config user.name "Colden Cullen"
 - git config user.email "colden@coldencullen.com"
 
 - git checkout master
-- gitbook build
+- mdbook build
 - git add _book -f
 - git commit -m "Rebuilt book"
 
