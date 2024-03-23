@@ -1,1002 +1,194 @@
 <!DOCTYPE HTML>
-<html lang="en" >
-    
+<html lang="en" class="light" dir="ltr">
     <head>
-        
+        <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <title>Patreon | How To FOSS</title>
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <meta name="description" content="">
-        <meta name="generator" content="GitBook 2.4.2">
-        
-        
-        <meta name="HandheldFriendly" content="true"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="apple-mobile-web-app-status-bar-style" content="black">
-        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../../gitbook/images/apple-touch-icon-precomposed-152.png">
-        <link rel="shortcut icon" href="../../../gitbook/images/favicon.ico" type="image/x-icon">
-        
-    <link rel="stylesheet" href="../../../gitbook/style.css">
-    
-        
-        <link rel="stylesheet" href="../../../gitbook/plugins/gitbook-plugin-highlight/website.css">
-        
-    
-    
+        <title>Patreon - How To FOSS</title>
 
-        
-    
-    
-    <link rel="next" href="../../../chapters/bizleg-case-studies/crowdfunding/IndieGoGo.html" />
-    
-    
-    <link rel="prev" href="../../../chapters/bizleg-case-studies/crowdfunding/bountysource.html" />
-    
 
+        <!-- Custom HTML head -->
         
+        <meta name="description" content="This book was compiled during an Independent Study course at Rochester Institute of Technology, in conjunction with the MAGIC Center. In it, you will find a collection of information that explain how to get started in the free and open source community.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../../favicon.svg">
+        <link rel="shortcut icon" href="../../../favicon.png">
+        <link rel="stylesheet" href="../../../css/variables.css">
+        <link rel="stylesheet" href="../../../css/general.css">
+        <link rel="stylesheet" href="../../../css/chrome.css">
+        <link rel="stylesheet" href="../../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../../highlight.css">
+        <link rel="stylesheet" href="../../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
     </head>
-    <body>
-        
-        
-    <div class="book" data-level="9.4.2" data-basepath="../../.." data-revision="Tue Sep 29 2015 01:19:10 GMT+0000 (UTC)">
-    
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
 
-<div class="book-summary">
-    <div class="book-search" role="search">
-        <input type="text" placeholder="Type to search" class="form-control" />
-    </div>
-    <nav role="navigation">
-        <ul class="summary">
-            
-            
-            
-                
-                <li>
-                    <a href="https://github.com/FOSSRIT/HowToFOSS" target="blank" class="custom-link">Github repo</a>
-                </li>
-            
-            
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
 
-            
-            <li class="divider"></li>
-            
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
 
-            
-    
-        <li class="chapter " data-level="0" data-path="index.html">
-            
-                
-                    <a href="../../../index.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                        Introduction
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="1" data-path="chapters/fosswat.html">
-            
-                
-                    <a href="../../../chapters/fosswat.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>1.</b>
-                        
-                        What is Open Source? Why? FOSS, Wat?
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="2" data-path="chapters/licensing.html">
-            
-                
-                    <a href="../../../chapters/licensing.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>2.</b>
-                        
-                        Licensing Overview and Resources
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="3" data-path="chapters/case-studies/index.html">
-            
-                
-                    <a href="../../../chapters/case-studies/index.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>3.</b>
-                        
-                        Case-Studies: Past FOSS projects at RIT
-                    </a>
-            
-            
-            <ul class="articles">
-                
-    
-        <li class="chapter " data-level="3.1" data-path="chapters/case-studies/dash.html">
-            
-                
-                    <a href="../../../chapters/case-studies/dash.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>3.1.</b>
-                        
-                        Dash
-                    </a>
-            
-            
-        </li>
-    
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
 
-            </ul>
-            
-        </li>
-    
-        <li class="chapter " data-level="4" data-path="chapters/contributing.html">
-            
-                
-                    <a href="../../../chapters/contributing.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>4.</b>
-                        
-                        How to Contribute to a FOSS Project
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="5" data-path="chapters/projectmanagement.html">
-            
-                
-                    <a href="../../../chapters/projectmanagement.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>5.</b>
-                        
-                        How to Manage a FOSS Project
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="6" data-path="chapters/howtogit.html">
-            
-                
-                    <a href="../../../chapters/howtogit.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>6.</b>
-                        
-                        How to Use Git
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="7" data-path="chapters/hostingcode.html">
-            
-                
-                    <a href="../../../chapters/hostingcode.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>7.</b>
-                        
-                        How Github and other Code Hosts Work
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="8" data-path="chapters/ecosystems/index.html">
-            
-                
-                    <a href="../../../chapters/ecosystems/index.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>8.</b>
-                        
-                        FOSS Ecosystems
-                    </a>
-            
-            
-            <ul class="articles">
-                
-    
-        <li class="chapter " data-level="8.1" data-path="chapters/ecosystems/fossatmagic.html">
-            
-                
-                    <a href="../../../chapters/ecosystems/fossatmagic.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>8.1.</b>
-                        
-                        FOSS@MAGIC
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="8.2" data-path="chapters/ecosystems/ritrc.html">
-            
-                
-                    <a href="../../../chapters/ecosystems/ritrc.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>8.2.</b>
-                        
-                        Research Computing
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="8.3" data-path="chapters/ecosystems/coderit.html">
-            
-                
-                    <a href="../../../chapters/ecosystems/coderit.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>8.3.</b>
-                        
-                        codeRIT
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="8.4" data-path="chapters/ecosystems/ritwic.html">
-            
-                
-                    <a href="../../../chapters/ecosystems/ritwic.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>8.4.</b>
-                        
-                        WiC
-                    </a>
-            
-            
-        </li>
-    
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
 
-            </ul>
-            
-        </li>
-    
-        <li class="chapter " data-level="9" data-path="chapters/bizleg-case-studies/index.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/index.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.</b>
-                        
-                        Business and Legal Profiles
-                    </a>
-            
-            
-            <ul class="articles">
-                
-    
-        <li class="chapter " data-level="9.1" data-path="chapters/bizleg-case-studies/enterprise/index.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/enterprise/index.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.1.</b>
-                        
-                        Enterprise
-                    </a>
-            
-            
-            <ul class="articles">
-                
-    
-        <li class="chapter " data-level="9.1.1" data-path="chapters/bizleg-case-studies/enterprise/AcquiaDrupal.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/enterprise/AcquiaDrupal.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.1.1.</b>
-                        
-                        Acquia / Drupal
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.1.2" data-path="chapters/bizleg-case-studies/enterprise/openGL.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/enterprise/openGL.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.1.2.</b>
-                        
-                        Khronos Group / OpenGL
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.1.3" data-path="chapters/bizleg-case-studies/enterprise/Canonical-Ubuntu.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/enterprise/Canonical-Ubuntu.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.1.3.</b>
-                        
-                        Canonical / Ubuntu
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.1.4" data-path="chapters/bizleg-case-studies/enterprise/GitHub.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/enterprise/GitHub.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.1.4.</b>
-                        
-                        GitHub
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.1.5" data-path="chapters/bizleg-case-studies/enterprise/AppleWebKit.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/enterprise/AppleWebKit.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.1.5.</b>
-                        
-                        Apple / WebKit
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.1.6" data-path="chapters/bizleg-case-studies/enterprise/debian.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/enterprise/debian.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.1.6.</b>
-                        
-                        Debian
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.1.7" data-path="chapters/bizleg-case-studies/enterprise/Wordpress.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/enterprise/Wordpress.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.1.7.</b>
-                        
-                        Wordpress
-                    </a>
-            
-            
-        </li>
-    
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
 
-            </ul>
-            
-        </li>
-    
-        <li class="chapter " data-level="9.2" data-path="chapters/bizleg-case-studies/fiscal-sponsorship/index.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/fiscal-sponsorship/index.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.2.</b>
-                        
-                        Fiscal Sponsorship
-                    </a>
-            
-            
-            <ul class="articles">
-                
-    
-        <li class="chapter " data-level="9.2.1" data-path="chapters/bizleg-case-studies/fiscal-sponsorship/EclipseFoundation.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/fiscal-sponsorship/EclipseFoundation.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.2.1.</b>
-                        
-                        Eclipse Foundation
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.2.2" data-path="chapters/bizleg-case-studies/fiscal-sponsorship/SPI.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/fiscal-sponsorship/SPI.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.2.2.</b>
-                        
-                        Software in the Public Interest
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.2.3" data-path="chapters/bizleg-case-studies/fiscal-sponsorship/LinuxFoundation.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/fiscal-sponsorship/LinuxFoundation.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.2.3.</b>
-                        
-                        Linux Foundation
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.2.4" data-path="chapters/bizleg-case-studies/fiscal-sponsorship/ASF.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/fiscal-sponsorship/ASF.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.2.4.</b>
-                        
-                        Apache Software Foundation
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.2.5" data-path="chapters/bizleg-case-studies/fiscal-sponsorship/fsf.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/fiscal-sponsorship/fsf.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.2.5.</b>
-                        
-                        The Free Software Foundation
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.2.6" data-path="chapters/bizleg-case-studies/fiscal-sponsorship/SoftwareFreedomConservancy.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/fiscal-sponsorship/SoftwareFreedomConservancy.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.2.6.</b>
-                        
-                        Software Freedom Conservancy
-                    </a>
-            
-            
-        </li>
-    
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
 
-            </ul>
-            
-        </li>
-    
-        <li class="chapter " data-level="9.3" data-path="chapters/bizleg-case-studies/startups/index.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/startups/index.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.3.</b>
-                        
-                        Startups/Contemporary Issues
-                    </a>
-            
-            
-            <ul class="articles">
-                
-    
-        <li class="chapter " data-level="9.3.1" data-path="chapters/bizleg-case-studies/startups/CodeCombat.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/startups/CodeCombat.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.3.1.</b>
-                        
-                        CodeCombat
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.3.2" data-path="chapters/bizleg-case-studies/startups/ouya.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/startups/ouya.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.3.2.</b>
-                        
-                        Ouya
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.3.3" data-path="chapters/bizleg-case-studies/startups/BeagleBoard.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/startups/BeagleBoard.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.3.3.</b>
-                        
-                        BeagleBoard Organization
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.3.4" data-path="chapters/bizleg-case-studies/startups/coinbase.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/startups/coinbase.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.3.4.</b>
-                        
-                        Coinbase
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.3.5" data-path="chapters/bizleg-case-studies/startups/Arduino.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/startups/Arduino.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.3.5.</b>
-                        
-                        Arduino
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.3.6" data-path="chapters/bizleg-case-studies/startups/Lantern.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/startups/Lantern.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.3.6.</b>
-                        
-                        Lantern
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.3.7" data-path="chapters/bizleg-case-studies/startups/raspberrypi.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/startups/raspberrypi.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.3.7.</b>
-                        
-                        Raspberry Pi
-                    </a>
-            
-            
-        </li>
-    
-
-            </ul>
-            
-        </li>
-    
-        <li class="chapter " data-level="9.4" data-path="chapters/bizleg-case-studies/crowdfunding/index.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/crowdfunding/index.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.4.</b>
-                        
-                        Crowdfunding/Crowdfunded
-                    </a>
-            
-            
-            <ul class="articles">
-                
-    
-        <li class="chapter " data-level="9.4.1" data-path="chapters/bizleg-case-studies/crowdfunding/bountysource.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/crowdfunding/bountysource.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.4.1.</b>
-                        
-                        BountySource
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter active" data-level="9.4.2" data-path="chapters/bizleg-case-studies/crowdfunding/patreon.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/crowdfunding/patreon.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.4.2.</b>
-                        
-                        Patreon
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.4.3" data-path="chapters/bizleg-case-studies/crowdfunding/IndieGoGo.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/crowdfunding/IndieGoGo.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.4.3.</b>
-                        
-                        IndieGoGo
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.4.4" data-path="chapters/bizleg-case-studies/crowdfunding/Flattr.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/crowdfunding/Flattr.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.4.4.</b>
-                        
-                        Flattr
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.4.5" data-path="chapters/bizleg-case-studies/crowdfunding/gratipay.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/crowdfunding/gratipay.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.4.5.</b>
-                        
-                        Gratipay
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.4.6" data-path="chapters/bizleg-case-studies/crowdfunding/kickstarter.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/crowdfunding/kickstarter.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.4.6.</b>
-                        
-                        Kickstarter
-                    </a>
-            
-            
-        </li>
-    
-
-            </ul>
-            
-        </li>
-    
-        <li class="chapter " data-level="9.5" data-path="chapters/bizleg-case-studies/light-side-dark-side/index.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/light-side-dark-side/index.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.5.</b>
-                        
-                        Civic Hacking/Dark Arts
-                    </a>
-            
-            
-            <ul class="articles">
-                
-    
-        <li class="chapter " data-level="9.5.1" data-path="chapters/bizleg-case-studies/light-side-dark-side/SugarOLPC.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/light-side-dark-side/SugarOLPC.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.5.1.</b>
-                        
-                        Sugar / OLPC
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.5.2" data-path="chapters/bizleg-case-studies/light-side-dark-side/18f.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/light-side-dark-side/18f.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.5.2.</b>
-                        
-                        18f
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.5.3" data-path="chapters/bizleg-case-studies/light-side-dark-side/OWASP.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/light-side-dark-side/OWASP.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.5.3.</b>
-                        
-                        OWASP
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.5.4" data-path="chapters/bizleg-case-studies/light-side-dark-side/tor.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/light-side-dark-side/tor.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.5.4.</b>
-                        
-                        Tor
-                    </a>
-            
-            
-        </li>
-    
-        <li class="chapter " data-level="9.5.5" data-path="chapters/bizleg-case-studies/light-side-dark-side/ushahidi.html">
-            
-                
-                    <a href="../../../chapters/bizleg-case-studies/light-side-dark-side/ushahidi.html">
-                
-                        <i class="fa fa-check"></i>
-                        
-                            <b>9.5.5.</b>
-                        
-                        Ushahidi
-                    </a>
-            
-            
-        </li>
-    
-
-            </ul>
-            
-        </li>
-    
-
-            </ul>
-            
-        </li>
-    
-
-
-            
-            <li class="divider"></li>
-            <li>
-                <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
-                    Published with GitBook
-                </a>
-            </li>
-            
-        </ul>
-    </nav>
-</div>
-
-    <div class="book-body">
-        <div class="body-inner">
-            <div class="book-header" role="navigation">
-    <!-- Actions Left -->
-    <a href="#" class="btn pull-left toggle-summary" aria-label="Table of Contents"><i class="fa fa-align-justify"></i></a>
-    <a href="#" class="btn pull-left toggle-search" aria-label="Search"><i class="fa fa-search"></i></a>
-    
-    <a href="../../../GLOSSARY.html" class="btn pull-left" aria-label="Glossary"><i class="fa fa-sort-alpha-asc"></i></a>
-    
-    <div id="font-settings-wrapper" class="dropdown pull-left">
-        <a href="#" class="btn toggle-dropdown" aria-label="Font Settings"><i class="fa fa-font"></i>
-        </a>
-        <div class="dropdown-menu font-settings">
-    <div class="dropdown-caret">
-        <span class="caret-outer"></span>
-        <span class="caret-inner"></span>
-    </div>
-
-    <div class="buttons">
-        <button type="button" id="reduce-font-size" class="button size-2">A</button>
-        <button type="button" id="enlarge-font-size" class="button size-2">A</button>
-    </div>
-
-    <div class="buttons font-family-list">
-        <button type="button" data-font="0" class="button">Serif</button>
-        <button type="button" data-font="1" class="button">Sans</button>
-    </div>
-
-    <div class="buttons color-theme-list">
-        <button type="button" id="color-theme-preview-0" class="button size-3" data-theme="0">White</button>
-        <button type="button" id="color-theme-preview-1" class="button size-3" data-theme="1">Sepia</button>
-        <button type="button" id="color-theme-preview-2" class="button size-3" data-theme="2">Night</button>
-    </div>
-</div>
-
-    </div>
-
-    <!-- Actions Right -->
-    
-    <div class="dropdown pull-right">
-        <a href="#" class="btn toggle-dropdown" aria-label="Share"><i class="fa fa-share-alt"></i>
-        </a>
-        <div class="dropdown-menu font-settings dropdown-left">
-            <div class="dropdown-caret">
-                <span class="caret-outer"></span>
-                <span class="caret-inner"></span>
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../../../chapters/introduction.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="../../../chapters/fosswat.html"><strong aria-hidden="true">2.</strong> What is Open Source? Why? FOSS, Wat?</a></li><li class="chapter-item expanded "><a href="../../../chapters/licensing.html"><strong aria-hidden="true">3.</strong> Licensing Overview and Resources</a></li><li class="chapter-item expanded "><a href="../../../chapters/case-studies/index.html"><strong aria-hidden="true">4.</strong> Case-Studies: Past FOSS projects at RIT</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../chapters/case-studies/dash.html"><strong aria-hidden="true">4.1.</strong> Dash</a></li></ol></li><li class="chapter-item expanded "><a href="../../../chapters/contributing.html"><strong aria-hidden="true">5.</strong> How to Contribute to a FOSS Project</a></li><li class="chapter-item expanded "><a href="../../../chapters/projectmanagement.html"><strong aria-hidden="true">6.</strong> How to Manage a FOSS Project</a></li><li class="chapter-item expanded "><a href="../../../chapters/howtogit.html"><strong aria-hidden="true">7.</strong> How to Use Git</a></li><li class="chapter-item expanded "><a href="../../../chapters/hostingcode.html"><strong aria-hidden="true">8.</strong> How Github and other Code Hosts Work</a></li><li class="chapter-item expanded "><a href="../../../chapters/ecosystems/index.html"><strong aria-hidden="true">9.</strong> FOSS Ecosystems</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../chapters/ecosystems/fossatmagic.html"><strong aria-hidden="true">9.1.</strong> FOSS@MAGIC</a></li><li class="chapter-item expanded "><a href="../../../chapters/ecosystems/ritrc.html"><strong aria-hidden="true">9.2.</strong> Research Computing</a></li><li class="chapter-item expanded "><a href="../../../chapters/ecosystems/coderit.html"><strong aria-hidden="true">9.3.</strong> codeRIT</a></li><li class="chapter-item expanded "><a href="../../../chapters/ecosystems/ritwic.html"><strong aria-hidden="true">9.4.</strong> WiC</a></li></ol></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/index.html"><strong aria-hidden="true">10.</strong> Business and Legal Profiles</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/enterprise/index.html"><strong aria-hidden="true">10.1.</strong> Enterprise</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/enterprise/AcquiaDrupal.html"><strong aria-hidden="true">10.1.1.</strong> Acquia / Drupal</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/enterprise/openGL.html"><strong aria-hidden="true">10.1.2.</strong> Khronos Group / OpenGL</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/enterprise/Canonical-Ubuntu.html"><strong aria-hidden="true">10.1.3.</strong> Canonical / Ubuntu</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/enterprise/GitHub.html"><strong aria-hidden="true">10.1.4.</strong> GitHub</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/enterprise/AppleWebKit.html"><strong aria-hidden="true">10.1.5.</strong> Apple / WebKit</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/enterprise/debian.html"><strong aria-hidden="true">10.1.6.</strong> Debian</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/enterprise/Wordpress.html"><strong aria-hidden="true">10.1.7.</strong> Wordpress</a></li></ol></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/fiscal-sponsorship/index.html"><strong aria-hidden="true">10.2.</strong> Fiscal Sponsorship</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/fiscal-sponsorship/EclipseFoundation.html"><strong aria-hidden="true">10.2.1.</strong> Eclipse Foundation</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/fiscal-sponsorship/SPI.html"><strong aria-hidden="true">10.2.2.</strong> Software in the Public Interest</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/fiscal-sponsorship/LinuxFoundation.html"><strong aria-hidden="true">10.2.3.</strong> Linux Foundation</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/fiscal-sponsorship/ASF.html"><strong aria-hidden="true">10.2.4.</strong> Apache Software Foundation</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/fiscal-sponsorship/fsf.html"><strong aria-hidden="true">10.2.5.</strong> The Free Software Foundation</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/fiscal-sponsorship/SoftwareFreedomConservancy.html"><strong aria-hidden="true">10.2.6.</strong> Software Freedom Conservancy</a></li></ol></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/startups/index.html"><strong aria-hidden="true">10.3.</strong> Startups/Contemporary Issues</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/startups/CodeCombat.html"><strong aria-hidden="true">10.3.1.</strong> CodeCombat</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/startups/ouya.html"><strong aria-hidden="true">10.3.2.</strong> Ouya</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/startups/BeagleBoard.html"><strong aria-hidden="true">10.3.3.</strong> BeagleBoard Organization</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/startups/coinbase.html"><strong aria-hidden="true">10.3.4.</strong> Coinbase</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/startups/Arduino.html"><strong aria-hidden="true">10.3.5.</strong> Arduino</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/startups/Lantern.html"><strong aria-hidden="true">10.3.6.</strong> Lantern</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/startups/raspberrypi.html"><strong aria-hidden="true">10.3.7.</strong> Raspberry Pi</a></li></ol></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/crowdfunding/index.html"><strong aria-hidden="true">10.4.</strong> Crowdfunding/Crowdfunded</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/crowdfunding/bountysource.html"><strong aria-hidden="true">10.4.1.</strong> BountySource</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/crowdfunding/patreon.html" class="active"><strong aria-hidden="true">10.4.2.</strong> Patreon</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/crowdfunding/IndieGoGo.html"><strong aria-hidden="true">10.4.3.</strong> IndieGoGo</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/crowdfunding/Flattr.html"><strong aria-hidden="true">10.4.4.</strong> Flattr</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/crowdfunding/gratipay.html"><strong aria-hidden="true">10.4.5.</strong> Gratipay</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/crowdfunding/kickstarter.html"><strong aria-hidden="true">10.4.6.</strong> Kickstarter</a></li></ol></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/light-side-dark-side/index.html"><strong aria-hidden="true">10.5.</strong> Civic Hacking/Dark Arts</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/light-side-dark-side/SugarOLPC.html"><strong aria-hidden="true">10.5.1.</strong> Sugar / OLPC</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/light-side-dark-side/18f.html"><strong aria-hidden="true">10.5.2.</strong> 18f</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/light-side-dark-side/OWASP.html"><strong aria-hidden="true">10.5.3.</strong> OWASP</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/light-side-dark-side/tor.html"><strong aria-hidden="true">10.5.4.</strong> Tor</a></li><li class="chapter-item expanded "><a href="../../../chapters/bizleg-case-studies/light-side-dark-side/ushahidi.html"><strong aria-hidden="true">10.5.5.</strong> Ushahidi</a></li></ol></li></ol></li></ol>
             </div>
-            <div class="buttons">
-                <button type="button" data-sharing="twitter" class="button">
-                    Share on Twitter
-                </button>
-                <button type="button" data-sharing="google-plus" class="button">
-                    Share on Google
-                </button>
-                <button type="button" data-sharing="facebook" class="button">
-                    Share on Facebook
-                </button>
-                <button type="button" data-sharing="weibo" class="button">
-                    Share on Weibo
-                </button>
-                <button type="button" data-sharing="instapaper" class="button">
-                    Share on Instapaper
-                </button>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
             </div>
-        </div>
-    </div>
-    
+        </nav>
 
-    
-    <a href="#" target="_blank" class="btn pull-right google-plus-sharing-link sharing-link" data-sharing="google-plus" aria-label="Google"><i class="fa fa-google-plus"></i></a>
-    
-    
-    <a href="#" target="_blank" class="btn pull-right facebook-sharing-link sharing-link" data-sharing="facebook" aria-label="Facebook"><i class="fa fa-facebook"></i></a>
-    
-    
-    <a href="#" target="_blank" class="btn pull-right twitter-sharing-link sharing-link" data-sharing="twitter" aria-label="Twitter"><i class="fa fa-twitter"></i></a>
-    
-    
-    
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
 
+        <div id="page-wrapper" class="page-wrapper">
 
-    <!-- Title -->
-    <h1>
-        <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="../../../" >How To FOSS</a>
-    </h1>
-</div>
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
 
-            <div class="page-wrapper" tabindex="-1" role="main">
-                <div class="page-inner">
-                
-                
-                    <section class="normal" id="section-">
-                    
-                        <h1 id="profile-patreon">Profile: Patreon</h1>
-<h3 id="authors">Authors</h3>
+                    <h1 class="menu-title">How To FOSS</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/FOSSRIT/HowToFOSS" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="profile-patreon"><a class="header" href="#profile-patreon">Profile: Patreon</a></h1>
+<h3 id="authors"><a class="header" href="#authors">Authors</a></h3>
 <ul>
-<li><a href="http://blog-fortnight.rhcloud.com/" target="_blank">Fernando Ellis (fortnight)</a></li>
-<li><a href="http://www.andrewmandula.com/" target="_blank">Andrew Mangula (ajman1101)</a></li>
-<li><a href="http://brendan-w.com/" target="_blank">Brendan Whitfield (beWhitty)</a></li>
+<li><a href="http://blog-fortnight.rhcloud.com/">Fernando Ellis (fortnight)</a></li>
+<li><a href="http://www.andrewmandula.com/">Andrew Mangula (ajman1101)</a></li>
+<li><a href="http://brendan-w.com/">Brendan Whitfield (beWhitty)</a></li>
 </ul>
-<h3 id="rationale">Rationale</h3>
+<h3 id="rationale"><a class="header" href="#rationale">Rationale</a></h3>
 <blockquote>
 <p>There are <em>so</em> many subjects you could choose to profile, so why did you choose this one? What drew you into wanting to know more about the organization? How did you/your group decide on and agree?</p>
 </blockquote>
 <p>Patreon is a popular crowdfunding service that recently acquired Subbable. We wish to learn the details involved in operating a crowdfunding</p>
-<h2 id="organizational-details">Organizational Details</h2>
+<h2 id="organizational-details"><a class="header" href="#organizational-details">Organizational Details</a></h2>
 <blockquote>
 <p>Is the subject of your profile a corporate entity?</p>
 </blockquote>
@@ -1027,8 +219,8 @@
 <blockquote>
 <p>Has the company made any acquisitions? If yes, which companies, and what were their core products?</p>
 </blockquote>
-<p>Patreon recently acquired <a href="https://subbable.com/" target="_blank">Subbable</a> in March of 2015.</p>
-<p>Their core product is their website, which allows you to subscribe to one of their &#x201C;Creators&#x201D; and fund products through them. The website itself only takes enough money to support its servers and amazon&#x2019;s payment system. The rest goes to the creator that you would be supporting.</p>
+<p>Patreon recently acquired <a href="https://subbable.com/">Subbable</a> in March of 2015.</p>
+<p>Their core product is their website, which allows you to subscribe to one of their “Creators” and fund products through them. The website itself only takes enough money to support its servers and amazon’s payment system. The rest goes to the creator that you would be supporting.</p>
 <blockquote>
 <p>Has the company made any investments in other companies? If yes, which ones.</p>
 </blockquote>
@@ -1036,7 +228,7 @@
 <blockquote>
 <p>Number of Employees?</p>
 </blockquote>
-<p>21 Employees, Here&apos;s a sampling:</p>
+<p>21 Employees, Here's a sampling:</p>
 <ul>
 <li>Jack Conte - CEO</li>
 <li>Sam Yam - President and Tech Head</li>
@@ -1049,67 +241,68 @@
 <p>Where is HQ?</p>
 </blockquote>
 <pre><code>San Francisco, United States
-</code></pre><blockquote>
+</code></pre>
+<blockquote>
 <p>Does it have any other offices or locations?</p>
 </blockquote>
 <p>No</p>
 <blockquote>
 <p>Website?</p>
 </blockquote>
-<p><a href="http://www.patreon.com/" target="_blank">patreon.com</a></p>
+<p><a href="http://www.patreon.com/">patreon.com</a></p>
 <blockquote>
 <p>Wikipedia?</p>
 </blockquote>
-<p><a href="https://en.wikipedia.org/wiki/Patreon" target="_blank">Patreon</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Patreon">Patreon</a></p>
 <blockquote>
 <p>Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)</p>
 </blockquote>
-<p>They are private and don&#x2019;t publish their annual reports</p>
-<h2 id="communications">Communications</h2>
-<h3 id="social-media-for-patreon">Social media for Patreon</h3>
+<p>They are private and don’t publish their annual reports</p>
+<h2 id="communications"><a class="header" href="#communications">Communications</a></h2>
+<h3 id="social-media-for-patreon"><a class="header" href="#social-media-for-patreon">Social media for Patreon</a></h3>
 <blockquote>
 <p>Does your subject participate in social media? If yes, please list a URL for each account, and reach within that community.</p>
 </blockquote>
 <ul>
-<li><a href="https://www.youtube.com/user/PatreonCommandCenter" target="_blank">Youtube</a> - 2856 Subscribers</li>
-<li><a href="https://twitter.com/patreon" target="_blank">Twitter</a> -  28.7k Followers</li>
-<li><a href="https://www.facebook.com/patreon" target="_blank">Facebook</a> - 45031 likes</li>
-<li><a href="https://instagram.com/patreon/" target="_blank">Instagram</a> - 1140 Followers</li>
-<li><a href="https://www.patreon.com/Patreon?ty=c" target="_blank">Patreon on Patreon</a> - 150 Patrons</li>
-<li><a href="https://www.patreon.com/press" target="_blank">Patreon press</a></li>
+<li><a href="https://www.youtube.com/user/PatreonCommandCenter">Youtube</a> - 2856 Subscribers</li>
+<li><a href="https://twitter.com/patreon">Twitter</a> -  28.7k Followers</li>
+<li><a href="https://www.facebook.com/patreon">Facebook</a> - 45031 likes</li>
+<li><a href="https://instagram.com/patreon/">Instagram</a> - 1140 Followers</li>
+<li><a href="https://www.patreon.com/Patreon?ty=c">Patreon on Patreon</a> - 150 Patrons</li>
+<li><a href="https://www.patreon.com/press">Patreon press</a></li>
 </ul>
-<h3 id="communications-channels-for-patreon">Communications channels for Patreon</h3>
+<h3 id="communications-channels-for-patreon"><a class="header" href="#communications-channels-for-patreon">Communications channels for Patreon</a></h3>
 <blockquote>
 <p>What communication channels does your subject use to reach their public? Briefly describe and include a URL for each.</p>
 </blockquote>
 <p>The blog and the youtube are the primary means of public outreach:</p>
 <ul>
-<li><a href="https://www.patreon.com/Patreon?ty=c" target="_blank">Patreon on Patreon</a> - 150 Patrons</li>
-<li><a href="https://www.youtube.com/user/PatreonCommandCenter" target="_blank">Youtube</a> - 2856 Subscribers</li>
+<li><a href="https://www.patreon.com/Patreon?ty=c">Patreon on Patreon</a> - 150 Patrons</li>
+<li><a href="https://www.youtube.com/user/PatreonCommandCenter">Youtube</a> - 2856 Subscribers</li>
 </ul>
-<h3 id="patreon-conference-participation">Patreon Conference Participation</h3>
+<h3 id="patreon-conference-participation"><a class="header" href="#patreon-conference-participation">Patreon Conference Participation</a></h3>
 <blockquote>
 <p>Does your subject organize or participate in any conferences? If so, list them here, and provide links to any relevant sessions, keynotes, or content.</p>
 </blockquote>
 <p>No</p>
-<h2 id="community-architecture">Community Architecture</h2>
+<h2 id="community-architecture"><a class="header" href="#community-architecture">Community Architecture</a></h2>
 <p><em>Your subject likely runs or contributes to one or more Open Source products or projects. Choose one (or more) of these and answer the following questions (provide links is applicable).</em></p>
 <blockquote>
-<p>The project&apos;s IRC Channel</p>
+<p>The project's IRC Channel</p>
 </blockquote>
 <p>No official IRC channel</p>
 <blockquote>
 <p>Source Code repository</p>
 </blockquote>
-<p>Can&#x2019;t see it; They&#x2019;re a private company</p>
+<p>Can’t see it; They’re a private company</p>
 <blockquote>
 <p>Mail list archive</p>
 </blockquote>
-<p>Can&#x2019;t see it; They&#x2019;re a private company</p>
+<p>Can’t see it; They’re a private company</p>
 <blockquote>
 <p>Documentation</p>
 </blockquote>
-<p>Can&#x2019;t see it; They&#x2019;re a private company</p>
+<p>Can’t see it; They’re a private company</p>
 <blockquote>
 <p>Other communication channels</p>
 </blockquote>
@@ -1117,11 +310,11 @@
 <blockquote>
 <p>Project Website and/or Blog</p>
 </blockquote>
-<p><a href="https://www.patreon.com/" target="_blank">patreon.com</a></p>
+<p><a href="https://www.patreon.com/">patreon.com</a></p>
 <blockquote>
 <p>Describe the software project, its purpose and goals.</p>
 </blockquote>
-<p>Patreon is crowdfunding site allowing content creators to collect funding from their &#x201C;Patrons&#x201D;. Patreon allows for lone and recurring donations from the patrons, and takes a 5% commision. Content creators range from youtube stars, musicians, to podcasters.</p>
+<p>Patreon is crowdfunding site allowing content creators to collect funding from their “Patrons”. Patreon allows for lone and recurring donations from the patrons, and takes a 5% commision. Content creators range from youtube stars, musicians, to podcasters.</p>
 <blockquote>
 <p>Give brief history of the project. When was the Initial Commit? The latest commit?</p>
 </blockquote>
@@ -1133,7 +326,7 @@
 <blockquote>
 <p>Who has commit access, or has had patches accepted?  How many total?</p>
 </blockquote>
-<p>Can&#x2019;t see it; They&#x2019;re a private company</p>
+<p>Can’t see it; They’re a private company</p>
 <blockquote>
 <p>Has there been any turnover in the Core Team? (i.e. has the top 20% of contributors stayed the same over time? If not, how has it changed?)</p>
 </blockquote>
@@ -1149,31 +342,31 @@
 <blockquote>
 <p>What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?</p>
 </blockquote>
-<p>Rather than having bugs/issues, patreon more often than not will have problems with the posts of users. In December 2014 there was a policy change to no longer allow pornographic photography, but NSFW content in other forms is still allowed on the site. Now there is currently a system in place where users can request moderators to mark &#x201C;strikes&#x201D; on creator&#x2019;s content. Accumulate enough strikes, and you can have your account suspended.</p>
+<p>Rather than having bugs/issues, patreon more often than not will have problems with the posts of users. In December 2014 there was a policy change to no longer allow pornographic photography, but NSFW content in other forms is still allowed on the site. Now there is currently a system in place where users can request moderators to mark “strikes” on creator’s content. Accumulate enough strikes, and you can have your account suspended.</p>
 <blockquote>
-<p>How is the project&apos;s participation trending and why?</p>
+<p>How is the project's participation trending and why?</p>
 </blockquote>
 <p>It has been doing well. It gained 125,000 patrons in the first 18 months. Recurring pledges continue to increase.</p>
 <blockquote>
-<p>In your opinion, does the project pass &quot;The Raptor Test?&quot; (i.e. Would the project survive if the BDFL, or most active contributor were eaten by a Velociraptor?) Why or why not?</p>
+<p>In your opinion, does the project pass "The Raptor Test?" (i.e. Would the project survive if the BDFL, or most active contributor were eaten by a Velociraptor?) Why or why not?</p>
 </blockquote>
-<p>Yes, it would survive. While there may be a brief period of chaos while new moderators step in, most of the infrastructure is already in place, and would continue to run. In terms of the web development, since the site isn&#x2019;t very intensive, or unique, it&#x2019;s likely that new developers could pick up the code base quickly.</p>
+<p>Yes, it would survive. While there may be a brief period of chaos while new moderators step in, most of the infrastructure is already in place, and would continue to run. In terms of the web development, since the site isn’t very intensive, or unique, it’s likely that new developers could pick up the code base quickly.</p>
 <blockquote>
 <p>In your opinion, would the project survive if the core team, or most active 20% of contributors, were hit by a bus? Why or why not?</p>
 </blockquote>
-<p>The company would have a period of several months when content isn&#x2019;t as heavily moderated, the website might not support so much traffic, and the back-end wouldn&#x2019;t be patched, but the company could hire new employees and continue their services.</p>
+<p>The company would have a period of several months when content isn’t as heavily moderated, the website might not support so much traffic, and the back-end wouldn’t be patched, but the company could hire new employees and continue their services.</p>
 <blockquote>
-<p>Does the project have an official &quot;on-boarding&quot; process in place?  (new contributor guides, quickstarts, communication leads who focus specifically on newbies, etc...)</p>
+<p>Does the project have an official "on-boarding" process in place?  (new contributor guides, quickstarts, communication leads who focus specifically on newbies, etc...)</p>
 </blockquote>
-<p>Simply <a href="https://www.patreon.com/signup" target="_blank">sign up</a> for an account. Any questions can likely be answered from the <a href="http://support.patreon.com/" target="_blank">FAQ</a>.</p>
+<p>Simply <a href="https://www.patreon.com/signup">sign up</a> for an account. Any questions can likely be answered from the <a href="http://support.patreon.com/">FAQ</a>.</p>
 <blockquote>
 <p>Does the project have Documentation available? Is it extensive?  Does it include code examples?</p>
 </blockquote>
-<p>Patreon maintains a helpful <a href="http://support.patreon.com/" target="_blank">FAQ</a> with answers to questions regarding Creators and Patrons.</p>
+<p>Patreon maintains a helpful <a href="http://support.patreon.com/">FAQ</a> with answers to questions regarding Creators and Patrons.</p>
 <blockquote>
 <p>If you were going to contribute to this project, but ran into trouble or hit blockers, who would you contact, and how?</p>
 </blockquote>
-<p><a href="http://support.patreon.com/" target="_blank">FAQ</a> with information that might help. Depending on the blocker, you could also email privacy@patreon.com or copyright@patreon.com</p>
+<p><a href="http://support.patreon.com/">FAQ</a> with information that might help. Depending on the blocker, you could also email privacy@patreon.com or copyright@patreon.com</p>
 <blockquote>
 <p>Based on these answers, how would you describe the decision making structure/process of this group?  Is it hierarchical, consensus building, ruled by a small group, barely contained chaos, or ruled by a single or pair of individuals?</p>
 </blockquote>
@@ -1181,9 +374,9 @@
 <blockquote>
 <p>Is this the kind of structure you would enjoy working in? Why, or why not?</p>
 </blockquote>
-<p>As an artistic creator, it would be pretty nice; the concept of the website is to give artists enough monetary support to have a sustainable income for their work. As a back-end developer or moderator, I don&#x2019;t know about their system, as they are a private company.</p>
-<h2 id="technology-product">Technology/Product</h2>
-<p><em>Section adapted from <a href="http://www.teachingcopyright.org/handout/technology-history-worksheet" target="_blank">EFF Worksheet</a></em></p>
+<p>As an artistic creator, it would be pretty nice; the concept of the website is to give artists enough monetary support to have a sustainable income for their work. As a back-end developer or moderator, I don’t know about their system, as they are a private company.</p>
+<h2 id="technologyproduct"><a class="header" href="#technologyproduct">Technology/Product</a></h2>
+<p><em>Section adapted from <a href="http://www.teachingcopyright.org/handout/technology-history-worksheet">EFF Worksheet</a></em></p>
 <blockquote>
 <p>Who invented, created, or sponsored the technology?</p>
 </blockquote>
@@ -1191,7 +384,7 @@
 <blockquote>
 <p>What is the technology designed to do? How is it used?</p>
 </blockquote>
-<p>Creators/Artists can create an account and showcase their work. Artists can set a monthly limit that users can give them a month, attaching rewards/gifts to different tiers if they would like. Artists receive their pledges at the start of every month and can use them as they see fit, no financial records are need to be shown to Patreon or the artist&#x2019;s pledging users. Patreon charges a flat 5% fee on all pledges.</p>
+<p>Creators/Artists can create an account and showcase their work. Artists can set a monthly limit that users can give them a month, attaching rewards/gifts to different tiers if they would like. Artists receive their pledges at the start of every month and can use them as they see fit, no financial records are need to be shown to Patreon or the artist’s pledging users. Patreon charges a flat 5% fee on all pledges.</p>
 <blockquote>
 <p>Who would benefit from using this technology?</p>
 </blockquote>
@@ -1208,25 +401,27 @@
 <p>Who are some of the users of this service?</p>
 </blockquote>
 <ul>
-<li>Youtubers &amp; Musicians:<ul>
-<li><a href="https://www.patreon.com/jackconte" target="_blank">Jack Conte (the CEO of Patreon)</a></li>
-<li><a href="https://www.patreon.com/pentatonix" target="_blank">Pentatonix</a></li>
-<li><a href="https://www.patreon.com/cgpgrey" target="_blank">CGP Grey</a></li>
-<li><a href="https://www.patreon.com/scishow" target="_blank">SciShow</a></li>
-<li><a href="https://www.patreon.com/CorridorDigital" target="_blank">Corridor Digital</a></li>
-<li><a href="https://www.patreon.com/minutephysics" target="_blank">Minute Physics</a></li>
+<li>Youtubers &amp; Musicians:
+<ul>
+<li><a href="https://www.patreon.com/jackconte">Jack Conte (the CEO of Patreon)</a></li>
+<li><a href="https://www.patreon.com/pentatonix">Pentatonix</a></li>
+<li><a href="https://www.patreon.com/cgpgrey">CGP Grey</a></li>
+<li><a href="https://www.patreon.com/scishow">SciShow</a></li>
+<li><a href="https://www.patreon.com/CorridorDigital">Corridor Digital</a></li>
+<li><a href="https://www.patreon.com/minutephysics">Minute Physics</a></li>
 </ul>
 </li>
-<li>A handful of developers:<ul>
-<li><a href="https://www.patreon.com/openfl" target="_blank">openfl</a></li>
-<li><a href="https://www.patreon.com/libgdx" target="_blank">libgdx</a></li>
-<li><a href="https://www.patreon.com/queenofspace" target="_blank">queenofspace</a></li>
-<li><a href="https://www.patreon.com/freebsdgirl" target="_blank">freebsdgirl</a></li>
-<li><a href="https://www.patreon.com/benlehman" target="_blank">benlehman</a></li>
+<li>A handful of developers:
+<ul>
+<li><a href="https://www.patreon.com/openfl">openfl</a></li>
+<li><a href="https://www.patreon.com/libgdx">libgdx</a></li>
+<li><a href="https://www.patreon.com/queenofspace">queenofspace</a></li>
+<li><a href="https://www.patreon.com/freebsdgirl">freebsdgirl</a></li>
+<li><a href="https://www.patreon.com/benlehman">benlehman</a></li>
 </ul>
 </li>
 </ul>
-<h2 id="business-and-revenue-model">Business and Revenue Model</h2>
+<h2 id="business-and-revenue-model"><a class="header" href="#business-and-revenue-model">Business and Revenue Model</a></h2>
 <blockquote>
 <p>How was this organization funded originally?</p>
 </blockquote>
@@ -1242,36 +437,56 @@
 <blockquote>
 <p>What investments/acquisitions has the organization made?</p>
 </blockquote>
-<p>Patreon recently acquired <a href="https://subbable.com/" target="_blank">Subbable</a> in March of 2015.</p>
+<p>Patreon recently acquired <a href="https://subbable.com/">Subbable</a> in March of 2015.</p>
 
-                    
-                    </section>
-                
-                
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../../chapters/bizleg-case-studies/crowdfunding/bountysource.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../../../chapters/bizleg-case-studies/crowdfunding/IndieGoGo.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
                 </div>
             </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../../chapters/bizleg-case-studies/crowdfunding/bountysource.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../../../chapters/bizleg-case-studies/crowdfunding/IndieGoGo.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
         </div>
 
-        
-        <a href="../../../chapters/bizleg-case-studies/crowdfunding/bountysource.html" class="navigation navigation-prev " aria-label="Previous page: BountySource"><i class="fa fa-angle-left"></i></a>
-        
-        
-        <a href="../../../chapters/bizleg-case-studies/crowdfunding/IndieGoGo.html" class="navigation navigation-next " aria-label="Next page: IndieGoGo"><i class="fa fa-angle-right"></i></a>
-        
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../../elasticlunr.min.js"></script>
+        <script src="../../../mark.min.js"></script>
+        <script src="../../../searcher.js"></script>
+
+        <script src="../../../clipboard.min.js"></script>
+        <script src="../../../highlight.js"></script>
+        <script src="../../../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
     </div>
-</div>
-
-        
-<script src="../../../gitbook/app.js"></script>
-
-<script>
-require(["gitbook"], function(gitbook) {
-    var config = {"fontSettings":{"theme":"white","family":"sans","size":2}};
-    gitbook.start(config);
-});
-</script>
-
-        
     </body>
-    
 </html>
