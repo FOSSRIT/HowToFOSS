@@ -4,7 +4,7 @@ Profile: Linux Foundation
 ### Authors
 - [Matt Soucy (msoucy)](mailto:msoucy@csh.rit.edu)
 - [Liam Middlebrook (loothelion)](mailto:liammiddlebrook@gmail.com)
-- [Julien Eid (jeid64)](<mailto:jeid@csh.rit.edu)
+- [Julien Eid (jeid64)](mailto:jeid@csh.rit.edu)
 - [Aaron Herting (qwertos)](mailto:adh2380@rit.edu)
 
 
